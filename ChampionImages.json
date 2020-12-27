@@ -1,613 +1,613 @@
 {
-	"Images\\Champions\\Aatrox.png": {
+	"Cache\\Images\\Champions\\Aatrox.png": {
 		"MD5": "DF4F3E50D7A305A78B48E6E012679AC7",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Aatrox.png"
 	},
-	"Images\\Champions\\Ahri.png": {
+	"Cache\\Images\\Champions\\Ahri.png": {
 		"MD5": "4979C17972899770E5199844B846875A",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ahri.png"
 	},
-	"Images\\Champions\\Akali.png": {
+	"Cache\\Images\\Champions\\Akali.png": {
 		"MD5": "254171517C5418E10285BBA695DFA951",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Akali.png"
 	},
-	"Images\\Champions\\Alistar.png": {
+	"Cache\\Images\\Champions\\Alistar.png": {
 		"MD5": "0086E965F92644618D3AB5B5685A788A",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Alistar.png"
 	},
-	"Images\\Champions\\Amumu.png": {
+	"Cache\\Images\\Champions\\Amumu.png": {
 		"MD5": "51D804C0D88232B558E0117F5FBB8DF5",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Amumu.png"
 	},
-	"Images\\Champions\\Anivia.png": {
+	"Cache\\Images\\Champions\\Anivia.png": {
 		"MD5": "D5776A511C640C362E31C942CF9089B7",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Anivia.png"
 	},
-	"Images\\Champions\\Annie.png": {
+	"Cache\\Images\\Champions\\Annie.png": {
 		"MD5": "718F8A5057287055BFF7729CA9F272C1",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Annie.png"
 	},
-	"Images\\Champions\\Aphelios.png": {
+	"Cache\\Images\\Champions\\Aphelios.png": {
 		"MD5": "7D5B68D880B1C7D7FEE9EC5BC126E101",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Aphelios.png"
 	},
-	"Images\\Champions\\Ashe.png": {
+	"Cache\\Images\\Champions\\Ashe.png": {
 		"MD5": "4C292DFC73999728A4E0D2D339587781",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ashe.png"
 	},
-	"Images\\Champions\\AurelionSol.png": {
+	"Cache\\Images\\Champions\\AurelionSol.png": {
 		"MD5": "8E0590904F2208AF5DD6E1F1EB3B949B",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/AurelionSol.png"
 	},
-	"Images\\Champions\\Azir.png": {
+	"Cache\\Images\\Champions\\Azir.png": {
 		"MD5": "BAF32EE97457437EA20C42BA23003E0C",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Azir.png"
 	},
-	"Images\\Champions\\Bard.png": {
+	"Cache\\Images\\Champions\\Bard.png": {
 		"MD5": "7E4BFDCBF84E00A47C9B59AD065178B1",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Bard.png"
 	},
-	"Images\\Champions\\Blitzcrank.png": {
+	"Cache\\Images\\Champions\\Blitzcrank.png": {
 		"MD5": "B6F2E9817AAE0CC81E9683A48AEF44AE",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Blitzcrank.png"
 	},
-	"Images\\Champions\\Brand.png": {
+	"Cache\\Images\\Champions\\Brand.png": {
 		"MD5": "7AA667709A7CE82E45C459E3DF2D160A",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Brand.png"
 	},
-	"Images\\Champions\\Braum.png": {
+	"Cache\\Images\\Champions\\Braum.png": {
 		"MD5": "6929020F1FB06B15C88B1CC1D633EE28",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Braum.png"
 	},
-	"Images\\Champions\\Caitlyn.png": {
+	"Cache\\Images\\Champions\\Caitlyn.png": {
 		"MD5": "9C878F64E87D8271FC8C9D907B5DB714",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Caitlyn.png"
 	},
-	"Images\\Champions\\Camille.png": {
+	"Cache\\Images\\Champions\\Camille.png": {
 		"MD5": "985146CB1FB2BEEF0AFFD8D5FADC7451",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Camille.png"
 	},
-	"Images\\Champions\\Cassiopeia.png": {
+	"Cache\\Images\\Champions\\Cassiopeia.png": {
 		"MD5": "723076F895BABDD840B0EDD87EFC57EA",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Cassiopeia.png"
 	},
-	"Images\\Champions\\Chogath.png": {
+	"Cache\\Images\\Champions\\Chogath.png": {
 		"MD5": "A0DE7979503CBCE96F0FCBB9E8C3442E",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Chogath.png"
 	},
-	"Images\\Champions\\Corki.png": {
+	"Cache\\Images\\Champions\\Corki.png": {
 		"MD5": "333A3CF69198E947CD5ECA7D47D56726",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Corki.png"
 	},
-	"Images\\Champions\\Darius.png": {
+	"Cache\\Images\\Champions\\Darius.png": {
 		"MD5": "D90F224FD6F51F772DE5F2AC0E47C41E",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Darius.png"
 	},
-	"Images\\Champions\\Diana.png": {
+	"Cache\\Images\\Champions\\Diana.png": {
 		"MD5": "CF56348C33A7503B8E4D8EAD08A5B924",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Diana.png"
 	},
-	"Images\\Champions\\Draven.png": {
+	"Cache\\Images\\Champions\\Draven.png": {
 		"MD5": "70B6625910A10C38FAB9622F42068EDF",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Draven.png"
 	},
-	"Images\\Champions\\DrMundo.png": {
+	"Cache\\Images\\Champions\\DrMundo.png": {
 		"MD5": "932F656FDE7956AD2D236BB5758057AE",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/DrMundo.png"
 	},
-	"Images\\Champions\\Ekko.png": {
+	"Cache\\Images\\Champions\\Ekko.png": {
 		"MD5": "E70923738D7D0D6222B074ECBA6BF848",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ekko.png"
 	},
-	"Images\\Champions\\Elise.png": {
+	"Cache\\Images\\Champions\\Elise.png": {
 		"MD5": "5DC7EC04AE9F5C768BE0412F47E25572",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Elise.png"
 	},
-	"Images\\Champions\\Evelynn.png": {
+	"Cache\\Images\\Champions\\Evelynn.png": {
 		"MD5": "0AB8373722FDF007072BBF941A89C1A5",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Evelynn.png"
 	},
-	"Images\\Champions\\Ezreal.png": {
+	"Cache\\Images\\Champions\\Ezreal.png": {
 		"MD5": "FC683AFD720E24BD5AB33B9EBCC031BE",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ezreal.png"
 	},
-	"Images\\Champions\\FiddleSticks.png": {
+	"Cache\\Images\\Champions\\FiddleSticks.png": {
 		"MD5": "54C7541B3300D4887DE096A2ED96A535",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/FiddleSticks.png"
 	},
-	"Images\\Champions\\Fiora.png": {
+	"Cache\\Images\\Champions\\Fiora.png": {
 		"MD5": "021D3DBF409641C5DE3EC1AA8C9D2EAE",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Fiora.png"
 	},
-	"Images\\Champions\\Fizz.png": {
+	"Cache\\Images\\Champions\\Fizz.png": {
 		"MD5": "990F45BCA4DCE7E1F1FBD126BD63DD84",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Fizz.png"
 	},
-	"Images\\Champions\\Galio.png": {
+	"Cache\\Images\\Champions\\Galio.png": {
 		"MD5": "3289FCF2C053ADEAB5AD5242A85A4838",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Galio.png"
 	},
-	"Images\\Champions\\Gangplank.png": {
+	"Cache\\Images\\Champions\\Gangplank.png": {
 		"MD5": "A883AA766DEBDE85880D23396BE80B0B",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Gangplank.png"
 	},
-	"Images\\Champions\\Garen.png": {
+	"Cache\\Images\\Champions\\Garen.png": {
 		"MD5": "4218DB4D5D01BC4F98F32462E9977F8A",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Garen.png"
 	},
-	"Images\\Champions\\Gnar.png": {
+	"Cache\\Images\\Champions\\Gnar.png": {
 		"MD5": "E9C553799DF2DB297AFCB8BCFC715DAF",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Gnar.png"
 	},
-	"Images\\Champions\\Gragas.png": {
+	"Cache\\Images\\Champions\\Gragas.png": {
 		"MD5": "E7EB3FB357E71D7673434CEF9CA1FFE2",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Gragas.png"
 	},
-	"Images\\Champions\\Graves.png": {
+	"Cache\\Images\\Champions\\Graves.png": {
 		"MD5": "839EB7D1426303E65005CE5348FCA00D",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Graves.png"
 	},
-	"Images\\Champions\\Hecarim.png": {
+	"Cache\\Images\\Champions\\Hecarim.png": {
 		"MD5": "17E6955935ACB7F57110F0AF92514B1C",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Hecarim.png"
 	},
-	"Images\\Champions\\Heimerdinger.png": {
+	"Cache\\Images\\Champions\\Heimerdinger.png": {
 		"MD5": "FDE39F7FC210740C1C136B9D7AF54DE4",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Heimerdinger.png"
 	},
-	"Images\\Champions\\Illaoi.png": {
+	"Cache\\Images\\Champions\\Illaoi.png": {
 		"MD5": "EF45C70B83C9C93D8B10616300EBC404",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Illaoi.png"
 	},
-	"Images\\Champions\\Irelia.png": {
+	"Cache\\Images\\Champions\\Irelia.png": {
 		"MD5": "0DD86D1480A8AC2F04C633D682242C5D",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Irelia.png"
 	},
-	"Images\\Champions\\Ivern.png": {
+	"Cache\\Images\\Champions\\Ivern.png": {
 		"MD5": "DEDB397FD5FB9C50DA2EAFDB12A14EC3",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ivern.png"
 	},
-	"Images\\Champions\\Janna.png": {
+	"Cache\\Images\\Champions\\Janna.png": {
 		"MD5": "3C0E532B88F181C04F52974040621B5A",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Janna.png"
 	},
-	"Images\\Champions\\JarvanIV.png": {
+	"Cache\\Images\\Champions\\JarvanIV.png": {
 		"MD5": "1EA58740D3FA308F358FA6130DF24272",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/JarvanIV.png"
 	},
-	"Images\\Champions\\Jax.png": {
+	"Cache\\Images\\Champions\\Jax.png": {
 		"MD5": "36FFB83D35E210BC50FDFD0AFE5AA108",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Jax.png"
 	},
-	"Images\\Champions\\Jayce.png": {
+	"Cache\\Images\\Champions\\Jayce.png": {
 		"MD5": "893D74F89EDE8CB3B93C5E13A8E5CE5D",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Jayce.png"
 	},
-	"Images\\Champions\\Jhin.png": {
+	"Cache\\Images\\Champions\\Jhin.png": {
 		"MD5": "E929DDFB491C3894554FFE4E876C6BD4",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Jhin.png"
 	},
-	"Images\\Champions\\Jinx.png": {
+	"Cache\\Images\\Champions\\Jinx.png": {
 		"MD5": "995EE5A952C1B157F6F40A5D893B7332",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Jinx.png"
 	},
-	"Images\\Champions\\Kaisa.png": {
+	"Cache\\Images\\Champions\\Kaisa.png": {
 		"MD5": "ADD835084B5385C8929C49C77C86A9CD",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kaisa.png"
 	},
-	"Images\\Champions\\Kalista.png": {
+	"Cache\\Images\\Champions\\Kalista.png": {
 		"MD5": "E05B5FD8059A74FF2A93E5E470865B11",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kalista.png"
 	},
-	"Images\\Champions\\Karma.png": {
+	"Cache\\Images\\Champions\\Karma.png": {
 		"MD5": "CEE9E33F3EA3F3B989BCBB342730E231",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Karma.png"
 	},
-	"Images\\Champions\\Karthus.png": {
+	"Cache\\Images\\Champions\\Karthus.png": {
 		"MD5": "B9884C94AB1E7BF68943BDE28B41D3EA",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Karthus.png"
 	},
-	"Images\\Champions\\Kassadin.png": {
+	"Cache\\Images\\Champions\\Kassadin.png": {
 		"MD5": "0B561B21C3866018C20562B5E8E0167E",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kassadin.png"
 	},
-	"Images\\Champions\\Katarina.png": {
+	"Cache\\Images\\Champions\\Katarina.png": {
 		"MD5": "4D48A1924F0AAB15D0DAA2AB3DD251E4",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Katarina.png"
 	},
-	"Images\\Champions\\Kayle.png": {
+	"Cache\\Images\\Champions\\Kayle.png": {
 		"MD5": "C8033F9A53A37B2055E4305AA852A9B3",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kayle.png"
 	},
-	"Images\\Champions\\Kayn.png": {
+	"Cache\\Images\\Champions\\Kayn.png": {
 		"MD5": "261B10886CC47605C9F4AF189FC49536",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kayn.png"
 	},
-	"Images\\Champions\\Kennen.png": {
+	"Cache\\Images\\Champions\\Kennen.png": {
 		"MD5": "B7D494FBF31CC0CBEE6FCE5E85212CAB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kennen.png"
 	},
-	"Images\\Champions\\Khazix.png": {
+	"Cache\\Images\\Champions\\Khazix.png": {
 		"MD5": "CD5E65EB891DB2A9A9672541B0F9D90E",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Khazix.png"
 	},
-	"Images\\Champions\\Kindred.png": {
+	"Cache\\Images\\Champions\\Kindred.png": {
 		"MD5": "37B37DF9CDAA894A71CB0E3F16E47345",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kindred.png"
 	},
-	"Images\\Champions\\Kled.png": {
+	"Cache\\Images\\Champions\\Kled.png": {
 		"MD5": "EEAD7D5203920FF71E0F18AF4C91C443",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Kled.png"
 	},
-	"Images\\Champions\\KogMaw.png": {
+	"Cache\\Images\\Champions\\KogMaw.png": {
 		"MD5": "5B9842CE01309A00B0955AA08F72D5AB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/KogMaw.png"
 	},
-	"Images\\Champions\\Leblanc.png": {
+	"Cache\\Images\\Champions\\Leblanc.png": {
 		"MD5": "7B89C13A2FA68B30EA885B7FF7841176",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Leblanc.png"
 	},
-	"Images\\Champions\\LeeSin.png": {
+	"Cache\\Images\\Champions\\LeeSin.png": {
 		"MD5": "1B4A743524B01E0885B8A6E84D5A8663",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/LeeSin.png"
 	},
-	"Images\\Champions\\Leona.png": {
+	"Cache\\Images\\Champions\\Leona.png": {
 		"MD5": "D9EF7EBDF4A2ECD23602E0703B0EFBA6",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Leona.png"
 	},
-	"Images\\Champions\\Lillia.png": {
+	"Cache\\Images\\Champions\\Lillia.png": {
 		"MD5": "957B1CA5F62DF0DF460F2A6A3F199CA1",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Lillia.png"
 	},
-	"Images\\Champions\\Lissandra.png": {
+	"Cache\\Images\\Champions\\Lissandra.png": {
 		"MD5": "6419F4DD0A0829176487B76AC1C451DA",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Lissandra.png"
 	},
-	"Images\\Champions\\Lucian.png": {
+	"Cache\\Images\\Champions\\Lucian.png": {
 		"MD5": "F20CA11CA10442FEB6293133A4AF552C",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Lucian.png"
 	},
-	"Images\\Champions\\Lulu.png": {
+	"Cache\\Images\\Champions\\Lulu.png": {
 		"MD5": "F869527E43FE09CB8FFEBDE8AFC67B35",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Lulu.png"
 	},
-	"Images\\Champions\\Lux.png": {
+	"Cache\\Images\\Champions\\Lux.png": {
 		"MD5": "448B64984852009CFB8F0224AA7C4889",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Lux.png"
 	},
-	"Images\\Champions\\Malphite.png": {
+	"Cache\\Images\\Champions\\Malphite.png": {
 		"MD5": "0E760C6C8F787F8F5078A0928EE6B1EB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Malphite.png"
 	},
-	"Images\\Champions\\Malzahar.png": {
+	"Cache\\Images\\Champions\\Malzahar.png": {
 		"MD5": "BE75F1B2270029596CFED5A27672CD68",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Malzahar.png"
 	},
-	"Images\\Champions\\Maokai.png": {
+	"Cache\\Images\\Champions\\Maokai.png": {
 		"MD5": "D8CEE56DC327F130E470CAF9871B2654",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Maokai.png"
 	},
-	"Images\\Champions\\MasterYi.png": {
+	"Cache\\Images\\Champions\\MasterYi.png": {
 		"MD5": "FAEE2A10105D81FB4207725E2CBE0109",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/MasterYi.png"
 	},
-	"Images\\Champions\\MissFortune.png": {
+	"Cache\\Images\\Champions\\MissFortune.png": {
 		"MD5": "D346C5CBEC6181E51D70AE1ADC95479E",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/MissFortune.png"
 	},
-	"Images\\Champions\\MonkeyKing.png": {
+	"Cache\\Images\\Champions\\MonkeyKing.png": {
 		"MD5": "842947265B0E075804B15AE06011AFDA",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/MonkeyKing.png"
 	},
-	"Images\\Champions\\Mordekaiser.png": {
+	"Cache\\Images\\Champions\\Mordekaiser.png": {
 		"MD5": "C3ECF5286183812CDC9699D4069BF3BB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Mordekaiser.png"
 	},
-	"Images\\Champions\\Morgana.png": {
+	"Cache\\Images\\Champions\\Morgana.png": {
 		"MD5": "7FA5C5FD7FB48E626D2202B7838B911F",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Morgana.png"
 	},
-	"Images\\Champions\\Nami.png": {
+	"Cache\\Images\\Champions\\Nami.png": {
 		"MD5": "E8BAD58096E0BF120D2945D2AE8C83CB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Nami.png"
 	},
-	"Images\\Champions\\Nasus.png": {
+	"Cache\\Images\\Champions\\Nasus.png": {
 		"MD5": "B522CA7C4FABB7BDC81BFC9763313179",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Nasus.png"
 	},
-	"Images\\Champions\\Nautilus.png": {
+	"Cache\\Images\\Champions\\Nautilus.png": {
 		"MD5": "6EE39F8F68F818674DF4D9119E92345F",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Nautilus.png"
 	},
-	"Images\\Champions\\Neeko.png": {
+	"Cache\\Images\\Champions\\Neeko.png": {
 		"MD5": "9ABA9B1C170187ADAE325E8C8F8E7C20",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Neeko.png"
 	},
-	"Images\\Champions\\Nidalee.png": {
+	"Cache\\Images\\Champions\\Nidalee.png": {
 		"MD5": "5BDA5560F1E7F678A9CB9B23E5B33CD3",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Nidalee.png"
 	},
-	"Images\\Champions\\Nocturne.png": {
+	"Cache\\Images\\Champions\\Nocturne.png": {
 		"MD5": "8E6827B2850371389FE0337AA33932C2",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Nocturne.png"
 	},
-	"Images\\Champions\\Nunu.png": {
+	"Cache\\Images\\Champions\\Nunu.png": {
 		"MD5": "DFC740C21EDE2D3B67F168E21C18EE13",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Nunu.png"
 	},
-	"Images\\Champions\\Olaf.png": {
+	"Cache\\Images\\Champions\\Olaf.png": {
 		"MD5": "305F00D62A6F0EBE85737AE96DD90A86",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Olaf.png"
 	},
-	"Images\\Champions\\Orianna.png": {
+	"Cache\\Images\\Champions\\Orianna.png": {
 		"MD5": "D37EE8BAAD6A464C8469A15EE08ABDD5",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Orianna.png"
 	},
-	"Images\\Champions\\Ornn.png": {
+	"Cache\\Images\\Champions\\Ornn.png": {
 		"MD5": "C85A85AE33A47512D18DA2CF10D65A90",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ornn.png"
 	},
-	"Images\\Champions\\Pantheon.png": {
+	"Cache\\Images\\Champions\\Pantheon.png": {
 		"MD5": "64AFE29E4999CAD12930162FA1C07E69",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Pantheon.png"
 	},
-	"Images\\Champions\\Poppy.png": {
+	"Cache\\Images\\Champions\\Poppy.png": {
 		"MD5": "4D7A4C3082977A3A10BE591B1110BFC6",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Poppy.png"
 	},
-	"Images\\Champions\\Pyke.png": {
+	"Cache\\Images\\Champions\\Pyke.png": {
 		"MD5": "E2E629702270C00AB9244BD4DAA2B9D5",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Pyke.png"
 	},
-	"Images\\Champions\\Qiyana.png": {
+	"Cache\\Images\\Champions\\Qiyana.png": {
 		"MD5": "F04A83276939B8CB877E2CFB39DC44D0",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Qiyana.png"
 	},
-	"Images\\Champions\\Quinn.png": {
+	"Cache\\Images\\Champions\\Quinn.png": {
 		"MD5": "648AC97A2B2E7D7ADBD55B89AF9E46F6",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Quinn.png"
 	},
-	"Images\\Champions\\Rakan.png": {
+	"Cache\\Images\\Champions\\Rakan.png": {
 		"MD5": "CA6C5F43072DB779DCB003D61B3D05F2",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Rakan.png"
 	},
-	"Images\\Champions\\Rammus.png": {
+	"Cache\\Images\\Champions\\Rammus.png": {
 		"MD5": "725EF981A9CE9C78D0DB9543C5BE31C7",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Rammus.png"
 	},
-	"Images\\Champions\\RekSai.png": {
+	"Cache\\Images\\Champions\\RekSai.png": {
 		"MD5": "149DD5241558132BB97FDBBB060D42DC",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/RekSai.png"
 	},
-	"Images\\Champions\\Rell.png": {
+	"Cache\\Images\\Champions\\Rell.png": {
 		"MD5": "6E4C0A2AED0F6630BE7543662FB77B24",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Rell.png"
 	},
-	"Images\\Champions\\Renekton.png": {
+	"Cache\\Images\\Champions\\Renekton.png": {
 		"MD5": "CA547A93DC1B820112207E4CFE786E0B",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Renekton.png"
 	},
-	"Images\\Champions\\Rengar.png": {
+	"Cache\\Images\\Champions\\Rengar.png": {
 		"MD5": "95BFB2A3D5B04572CF576DEFB0773A30",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Rengar.png"
 	},
-	"Images\\Champions\\Riven.png": {
+	"Cache\\Images\\Champions\\Riven.png": {
 		"MD5": "440D1BD8C95EE9B57AA5DFF0200E09E4",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Riven.png"
 	},
-	"Images\\Champions\\Rumble.png": {
+	"Cache\\Images\\Champions\\Rumble.png": {
 		"MD5": "3A3C9913D3FC7DBAB73DEFA2AA59054D",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Rumble.png"
 	},
-	"Images\\Champions\\Ryze.png": {
+	"Cache\\Images\\Champions\\Ryze.png": {
 		"MD5": "68910395988327EA8294BC5E36DA5E96",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ryze.png"
 	},
-	"Images\\Champions\\Samira.png": {
+	"Cache\\Images\\Champions\\Samira.png": {
 		"MD5": "80E65F985FF36B1E73B3967EBE873017",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Samira.png"
 	},
-	"Images\\Champions\\Sejuani.png": {
+	"Cache\\Images\\Champions\\Sejuani.png": {
 		"MD5": "334BBB28D99B00DF03F7C28E929457CE",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Sejuani.png"
 	},
-	"Images\\Champions\\Senna.png": {
+	"Cache\\Images\\Champions\\Senna.png": {
 		"MD5": "8F448F569BC040FBEAF36DE3805ED2EB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Senna.png"
 	},
-	"Images\\Champions\\Seraphine.png": {
+	"Cache\\Images\\Champions\\Seraphine.png": {
 		"MD5": "596326C80F939F6CAFDB73D9E5917311",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Seraphine.png"
 	},
-	"Images\\Champions\\Sett.png": {
+	"Cache\\Images\\Champions\\Sett.png": {
 		"MD5": "8377BF3860C094267EA218362F71D5B3",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Sett.png"
 	},
-	"Images\\Champions\\Shaco.png": {
+	"Cache\\Images\\Champions\\Shaco.png": {
 		"MD5": "5C6B1E9D80AE534D7E58B6E1EC5BA224",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Shaco.png"
 	},
-	"Images\\Champions\\Shen.png": {
+	"Cache\\Images\\Champions\\Shen.png": {
 		"MD5": "B1B039683BB21D218D14D20134028A7B",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Shen.png"
 	},
-	"Images\\Champions\\Shyvana.png": {
+	"Cache\\Images\\Champions\\Shyvana.png": {
 		"MD5": "87490F7A82A320EA2784D23653E0B7B0",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Shyvana.png"
 	},
-	"Images\\Champions\\Singed.png": {
+	"Cache\\Images\\Champions\\Singed.png": {
 		"MD5": "61BDCEF1FD33746AB7B672441AC3E3F9",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Singed.png"
 	},
-	"Images\\Champions\\Sion.png": {
+	"Cache\\Images\\Champions\\Sion.png": {
 		"MD5": "AD52AFC162DA628A258D89739EADAD12",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Sion.png"
 	},
-	"Images\\Champions\\Sivir.png": {
+	"Cache\\Images\\Champions\\Sivir.png": {
 		"MD5": "C0BB039CDC9BE97BAF258AD3E8BA42F4",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Sivir.png"
 	},
-	"Images\\Champions\\Skarner.png": {
+	"Cache\\Images\\Champions\\Skarner.png": {
 		"MD5": "48EF4FBA07DEFD7846EE3F87C82AE9C2",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Skarner.png"
 	},
-	"Images\\Champions\\Sona.png": {
+	"Cache\\Images\\Champions\\Sona.png": {
 		"MD5": "E7C34D1AEB0DA3470D94C90EFF972E26",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Sona.png"
 	},
-	"Images\\Champions\\Soraka.png": {
+	"Cache\\Images\\Champions\\Soraka.png": {
 		"MD5": "E3925977DA5CFF76AB456040466B1EED",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Soraka.png"
 	},
-	"Images\\Champions\\Swain.png": {
+	"Cache\\Images\\Champions\\Swain.png": {
 		"MD5": "F832BF9DBD11BE46CC18F7635EEA5348",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Swain.png"
 	},
-	"Images\\Champions\\Sylas.png": {
+	"Cache\\Images\\Champions\\Sylas.png": {
 		"MD5": "F71F2B20AD8B043358B3E4806254B729",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Sylas.png"
 	},
-	"Images\\Champions\\Syndra.png": {
+	"Cache\\Images\\Champions\\Syndra.png": {
 		"MD5": "F3D9ED3682907B91CEA582B342F179D1",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Syndra.png"
 	},
-	"Images\\Champions\\TahmKench.png": {
+	"Cache\\Images\\Champions\\TahmKench.png": {
 		"MD5": "57B819D64EF4EE6747946C7A4D53132F",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/TahmKench.png"
 	},
-	"Images\\Champions\\Taliyah.png": {
+	"Cache\\Images\\Champions\\Taliyah.png": {
 		"MD5": "4021C7CE90E0386B027B72BFB2D8444D",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Taliyah.png"
 	},
-	"Images\\Champions\\Talon.png": {
+	"Cache\\Images\\Champions\\Talon.png": {
 		"MD5": "6D6BB6E1F1D8614FFF29CD21FD7755EB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Talon.png"
 	},
-	"Images\\Champions\\Taric.png": {
+	"Cache\\Images\\Champions\\Taric.png": {
 		"MD5": "6565768D200F6F7569BBF46C6696E904",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Taric.png"
 	},
-	"Images\\Champions\\Teemo.png": {
+	"Cache\\Images\\Champions\\Teemo.png": {
 		"MD5": "1139FE685AFFC14C9A23A82C1D2105D3",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Teemo.png"
 	},
-	"Images\\Champions\\Thresh.png": {
+	"Cache\\Images\\Champions\\Thresh.png": {
 		"MD5": "EAB5BCC1DD7ED9696B923D3FC9279CA3",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Thresh.png"
 	},
-	"Images\\Champions\\Tristana.png": {
+	"Cache\\Images\\Champions\\Tristana.png": {
 		"MD5": "34244A5142C7F4138298E16BF0C6BBAA",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Tristana.png"
 	},
-	"Images\\Champions\\Trundle.png": {
+	"Cache\\Images\\Champions\\Trundle.png": {
 		"MD5": "F05672E6B928274DBE87B76755CF6888",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Trundle.png"
 	},
-	"Images\\Champions\\Tryndamere.png": {
+	"Cache\\Images\\Champions\\Tryndamere.png": {
 		"MD5": "D0B4F646D208C15940312772412D6FFB",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Tryndamere.png"
 	},
-	"Images\\Champions\\TwistedFate.png": {
+	"Cache\\Images\\Champions\\TwistedFate.png": {
 		"MD5": "B9D51654C13FA168ADA10500969316B1",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/TwistedFate.png"
 	},
-	"Images\\Champions\\Twitch.png": {
+	"Cache\\Images\\Champions\\Twitch.png": {
 		"MD5": "F853D73D8141704D87FB7B82488940F5",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Twitch.png"
 	},
-	"Images\\Champions\\Udyr.png": {
+	"Cache\\Images\\Champions\\Udyr.png": {
 		"MD5": "85ABCD30D6401DFDAA1D984098601D0D",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Udyr.png"
 	},
-	"Images\\Champions\\Urgot.png": {
+	"Cache\\Images\\Champions\\Urgot.png": {
 		"MD5": "EE6736FC6B27E89CB6AF16E15C72A626",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Urgot.png"
 	},
-	"Images\\Champions\\Varus.png": {
+	"Cache\\Images\\Champions\\Varus.png": {
 		"MD5": "EA68C04514D0C016B227B49502307D60",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Varus.png"
 	},
-	"Images\\Champions\\Vayne.png": {
+	"Cache\\Images\\Champions\\Vayne.png": {
 		"MD5": "5D5AF670CCBA74BADF13A6D013E3B0DE",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Vayne.png"
 	},
-	"Images\\Champions\\Veigar.png": {
+	"Cache\\Images\\Champions\\Veigar.png": {
 		"MD5": "96677BBD9EA51CAA3A67E13D27EDB654",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Veigar.png"
 	},
-	"Images\\Champions\\Velkoz.png": {
+	"Cache\\Images\\Champions\\Velkoz.png": {
 		"MD5": "86B6884755F54A85E6CAD66494841E1F",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Velkoz.png"
 	},
-	"Images\\Champions\\Vi.png": {
+	"Cache\\Images\\Champions\\Vi.png": {
 		"MD5": "65BB19CACDEB83583E221E73E87EE6A9",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Vi.png"
 	},
-	"Images\\Champions\\Viktor.png": {
+	"Cache\\Images\\Champions\\Viktor.png": {
 		"MD5": "1A602E7DC475BE3CA9CCBA41689C71D3",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Viktor.png"
 	},
-	"Images\\Champions\\Vladimir.png": {
+	"Cache\\Images\\Champions\\Vladimir.png": {
 		"MD5": "F6CF900A0538C9825DE587FBB360C611",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Vladimir.png"
 	},
-	"Images\\Champions\\Volibear.png": {
+	"Cache\\Images\\Champions\\Volibear.png": {
 		"MD5": "F7CA66DC9EA336DBCC751DA649311049",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Volibear.png"
 	},
-	"Images\\Champions\\Warwick.png": {
+	"Cache\\Images\\Champions\\Warwick.png": {
 		"MD5": "FFD8D8F6B939E226677487D20E44AF76",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Warwick.png"
 	},
-	"Images\\Champions\\Xayah.png": {
+	"Cache\\Images\\Champions\\Xayah.png": {
 		"MD5": "1CC5DDE149711568FC0253729D625186",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Xayah.png"
 	},
-	"Images\\Champions\\Xerath.png": {
+	"Cache\\Images\\Champions\\Xerath.png": {
 		"MD5": "DC049599EE34FC386CE9E4B3C431F128",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Xerath.png"
 	},
-	"Images\\Champions\\XinZhao.png": {
+	"Cache\\Images\\Champions\\XinZhao.png": {
 		"MD5": "F9BA83DE2C8B43D1C5E4778F50595C6B",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/XinZhao.png"
 	},
-	"Images\\Champions\\Yasuo.png": {
+	"Cache\\Images\\Champions\\Yasuo.png": {
 		"MD5": "8C420EE28E07C4324E4CA4AD09927021",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Yasuo.png"
 	},
-	"Images\\Champions\\Yone.png": {
+	"Cache\\Images\\Champions\\Yone.png": {
 		"MD5": "5B5006046D300B532887AA8C26E1DF0C",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Yone.png"
 	},
-	"Images\\Champions\\Yorick.png": {
+	"Cache\\Images\\Champions\\Yorick.png": {
 		"MD5": "BEF9327D0E2E9D4814223CEA454AE3F0",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Yorick.png"
 	},
-	"Images\\Champions\\Yuumi.png": {
+	"Cache\\Images\\Champions\\Yuumi.png": {
 		"MD5": "D5EB5C576E413C134674965C42F192D7",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Yuumi.png"
 	},
-	"Images\\Champions\\Zac.png": {
+	"Cache\\Images\\Champions\\Zac.png": {
 		"MD5": "0924ED286E5365EA7CD18276FCB963FC",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Zac.png"
 	},
-	"Images\\Champions\\Zed.png": {
+	"Cache\\Images\\Champions\\Zed.png": {
 		"MD5": "58968B3745895C3A549A6512C9E274E8",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Zed.png"
 	},
-	"Images\\Champions\\Ziggs.png": {
+	"Cache\\Images\\Champions\\Ziggs.png": {
 		"MD5": "CCA49BA2E3892C75299BB2AA576EC34D",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ziggs.png"
 	},
-	"Images\\Champions\\Zilean.png": {
+	"Cache\\Images\\Champions\\Zilean.png": {
 		"MD5": "9BBF85ED488D4A14CEE3583D6536C4D9",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Zilean.png"
 	},
-	"Images\\Champions\\Zoe.png": {
+	"Cache\\Images\\Champions\\Zoe.png": {
 		"MD5": "EB60297ED9A5185F56E27681D2939B94",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Zoe.png"
 	},
-	"Images\\Champions\\Zyra.png": {
+	"Cache\\Images\\Champions\\Zyra.png": {
 		"MD5": "3049BBC2C6D6156FEB02E615DDD33105",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Zyra.png"
 	}
