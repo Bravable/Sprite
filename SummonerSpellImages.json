@@ -1,0 +1,46 @@
+{
+	"Cache\\Images\\SummonerSpells\\SummonerBarrier.png": {
+		"MD5": "070120E8064C7769BAEB1765E28832CC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerBarrier.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerBoost.png": {
+		"MD5": "65EEA722A1FC79FB6469E7246EB0AFB8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerBoost.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerDot.png": {
+		"MD5": "FC6BF1688506336009CCF19C4955AA18",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerDot.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerExhaust.png": {
+		"MD5": "37E058CE96CF92ADF6831AD5946956F4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerExhaust.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerFlash.png": {
+		"MD5": "C4122701056F18D242C22B2C0BD35642",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerFlash.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerHaste.png": {
+		"MD5": "58955CB861C3B51375948A05E260996A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerHaste.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerHeal.png": {
+		"MD5": "62CC94A564835CD3ABD80D74346C35DA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerHeal.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerMana.png": {
+		"MD5": "F180BEB2BB4D6514F307A02919007678",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerMana.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerSmite.png": {
+		"MD5": "D79FD9CC23F23592C1085E1B5262CC70",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerSmite.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerSnowball.png": {
+		"MD5": "5AADF633AA3471816E67D7BCFAD929A8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerSnowball.png"
+	},
+	"Cache\\Images\\SummonerSpells\\SummonerTeleport.png": {
+		"MD5": "76F3D1CBC7111379F6EFE2D1098B04C4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/SummonerSpells/SummonerTeleport.png"
+	}
+}
