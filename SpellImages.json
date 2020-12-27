@@ -1,0 +1,2506 @@
+{
+	"Images\\Spells\\AatroxE.png": {
+		"MD5": "B9086ACB9AF934AD28F45D0C52DC2FA4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AatroxE.png"
+	},
+	"Images\\Spells\\AatroxQ.png": {
+		"MD5": "5AFB954F48ECF7394AEC8E9384F9FDBD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AatroxQ.png"
+	},
+	"Images\\Spells\\AatroxR.png": {
+		"MD5": "0214F86FEF0D58F1D9560B2EB514B05D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AatroxR.png"
+	},
+	"Images\\Spells\\AatroxW.png": {
+		"MD5": "080384C8C18E664EAAA9A7695B9C8560",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AatroxW.png"
+	},
+	"Images\\Spells\\AhriFoxFire.png": {
+		"MD5": "53A31E2B5771BC360FE01E4064DC2385",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AhriFoxFire.png"
+	},
+	"Images\\Spells\\AhriOrbofDeception.png": {
+		"MD5": "2981144C4A7C33D556EDCD1A7595C9C9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AhriOrbofDeception.png"
+	},
+	"Images\\Spells\\AhriSeduce.png": {
+		"MD5": "8AEF411D410C8E28698483C34AC89CFD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AhriSeduce.png"
+	},
+	"Images\\Spells\\AhriTumble.png": {
+		"MD5": "19335C524996DA1C9692232F0C60F5BF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AhriTumble.png"
+	},
+	"Images\\Spells\\AkaliE.png": {
+		"MD5": "7A40FF3A724613309DE6A600F122B356",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AkaliE.png"
+	},
+	"Images\\Spells\\AkaliQ.png": {
+		"MD5": "912DBC00BDF804CF884D7CCF70262CB4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AkaliQ.png"
+	},
+	"Images\\Spells\\AkaliR.png": {
+		"MD5": "810FE0B5EF4F1181186C99C731ED9FED",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AkaliR.png"
+	},
+	"Images\\Spells\\AkaliW.png": {
+		"MD5": "7233F067A1A1B8AD18AF14358A272CE7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AkaliW.png"
+	},
+	"Images\\Spells\\AlistarE.png": {
+		"MD5": "24D02BA5C3AFFE7CD039DC428E43833E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AlistarE.png"
+	},
+	"Images\\Spells\\AlphaStrike.png": {
+		"MD5": "FCD68B15CF4CEE7D6C558CF4DCE37A54",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AlphaStrike.png"
+	},
+	"Images\\Spells\\AnnieE.png": {
+		"MD5": "DD41062F4C85F72C18AA6599CC0217C0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AnnieE.png"
+	},
+	"Images\\Spells\\AnnieQ.png": {
+		"MD5": "2DB0837964E3691377FC75B4A8EE1C30",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AnnieQ.png"
+	},
+	"Images\\Spells\\AnnieR.png": {
+		"MD5": "6D49C7F382398F8F2F07A338595607DF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AnnieR.png"
+	},
+	"Images\\Spells\\AnnieW.png": {
+		"MD5": "C37679A492BCEBC81215735FF83519D7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AnnieW.png"
+	},
+	"Images\\Spells\\ApheliosE_ClientTooltipWrapper.png": {
+		"MD5": "DC773BE3FCE89B5728FE0E40924266EF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ApheliosE_ClientTooltipWrapper.png"
+	},
+	"Images\\Spells\\ApheliosQ_ClientTooltipWrapper.png": {
+		"MD5": "81A1D2AA6F6DB391D10B2CF3CC05D3FE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ApheliosQ_ClientTooltipWrapper.png"
+	},
+	"Images\\Spells\\ApheliosR.png": {
+		"MD5": "459416D80ACE1CE3FE196B43CF2D0AA4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ApheliosR.png"
+	},
+	"Images\\Spells\\ApheliosW.png": {
+		"MD5": "F4E19CB3418E8A70783262039181D796",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ApheliosW.png"
+	},
+	"Images\\Spells\\AsheQ.png": {
+		"MD5": "23F521E2019051245D0FDA0B2004795D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AsheQ.png"
+	},
+	"Images\\Spells\\AsheSpiritOfTheHawk.png": {
+		"MD5": "FE6572C55C6D94A61C6643EA4AF000D0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AsheSpiritOfTheHawk.png"
+	},
+	"Images\\Spells\\AspectOfTheCougar.png": {
+		"MD5": "323C32517A8A29E502B9F904EBBF6568",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AspectOfTheCougar.png"
+	},
+	"Images\\Spells\\AuraofDespair.png": {
+		"MD5": "5EDB920F4E6580ED38F36E07214200D0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AuraofDespair.png"
+	},
+	"Images\\Spells\\AurelionSolE.png": {
+		"MD5": "415FA4F920D90E9C953555C52247587A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AurelionSolE.png"
+	},
+	"Images\\Spells\\AurelionSolQ.png": {
+		"MD5": "DBD8C77840E2CA6826EB45534982C87F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AurelionSolQ.png"
+	},
+	"Images\\Spells\\AurelionSolR.png": {
+		"MD5": "2E29386973C74FB47EFC2F3BA090DE8C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AurelionSolR.png"
+	},
+	"Images\\Spells\\AurelionSolW.png": {
+		"MD5": "58B10C9B23632AA57464C6957D6E667B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AurelionSolW.png"
+	},
+	"Images\\Spells\\AzirEWrapper.png": {
+		"MD5": "88C0DBC37D0C9508CF72576820790F0F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AzirEWrapper.png"
+	},
+	"Images\\Spells\\AzirQWrapper.png": {
+		"MD5": "27034DCD65C56A8D27ECF46D25FBA56B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AzirQWrapper.png"
+	},
+	"Images\\Spells\\AzirR.png": {
+		"MD5": "E60D723BD6327454BA7B8949C9300347",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AzirR.png"
+	},
+	"Images\\Spells\\AzirW.png": {
+		"MD5": "2861EA4A3A5AF3FFC1725EFF5DFFAFB0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/AzirW.png"
+	},
+	"Images\\Spells\\BandageToss.png": {
+		"MD5": "EECE6643D76C39541BC11C6672F2A203",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BandageToss.png"
+	},
+	"Images\\Spells\\BardE.png": {
+		"MD5": "F403E7A347AFE65680FDA2A61412F4E8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BardE.png"
+	},
+	"Images\\Spells\\BardQ.png": {
+		"MD5": "2C95D7162BFE480D099E31F5AD711AFB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BardQ.png"
+	},
+	"Images\\Spells\\BardR.png": {
+		"MD5": "DEE8FBF562E73EA18BEC3A54C0992D9D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BardR.png"
+	},
+	"Images\\Spells\\BardW.png": {
+		"MD5": "7143899BE0989CC6456DC6D2B1E8F7A0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BardW.png"
+	},
+	"Images\\Spells\\BlindingDart.png": {
+		"MD5": "FF2102DF6D8824F9527CA28AF5E15737",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BlindingDart.png"
+	},
+	"Images\\Spells\\BlindMonkEOne.png": {
+		"MD5": "9DB3B5344A0E8AB09A324C6A90BDCD30",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BlindMonkEOne.png"
+	},
+	"Images\\Spells\\BlindMonkQOne.png": {
+		"MD5": "311D5A9FD762F6299616619B8EBDE56C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BlindMonkQOne.png"
+	},
+	"Images\\Spells\\BlindMonkRKick.png": {
+		"MD5": "814783FE81991B7E03D5927BD25E817B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BlindMonkRKick.png"
+	},
+	"Images\\Spells\\BlindMonkWOne.png": {
+		"MD5": "826024904B3B24228750EA4C7EC8F3F0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BlindMonkWOne.png"
+	},
+	"Images\\Spells\\BrandE.png": {
+		"MD5": "4E461932C51EFE9C5B4E5419A880A2A3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BrandE.png"
+	},
+	"Images\\Spells\\BrandQ.png": {
+		"MD5": "003FD89401958F440D74D968D9E2B8DC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BrandQ.png"
+	},
+	"Images\\Spells\\BrandR.png": {
+		"MD5": "29B5121819C22C5604A8E7CDED897261",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BrandR.png"
+	},
+	"Images\\Spells\\BrandW.png": {
+		"MD5": "163B72ED031ED2EF682EFB61F925E0B5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BrandW.png"
+	},
+	"Images\\Spells\\BraumE.png": {
+		"MD5": "01FC8FC01A7994582063D3C4574F4BF0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BraumE.png"
+	},
+	"Images\\Spells\\BraumQ.png": {
+		"MD5": "F5F32460E0812B8B04A3C3017166EF80",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BraumQ.png"
+	},
+	"Images\\Spells\\BraumRWrapper.png": {
+		"MD5": "F4FC96C60C173080E9F1BABA8119D3AA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BraumRWrapper.png"
+	},
+	"Images\\Spells\\BraumW.png": {
+		"MD5": "D71422D15DA96CEF926AD2A34E86F709",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BraumW.png"
+	},
+	"Images\\Spells\\BurningAgony.png": {
+		"MD5": "7BD185BD4C000548D2E3DA96CA139135",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/BurningAgony.png"
+	},
+	"Images\\Spells\\Bushwhack.png": {
+		"MD5": "9F2D17C6B3520F126CFB518BF4C1EA29",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Bushwhack.png"
+	},
+	"Images\\Spells\\CaitlynAceintheHole.png": {
+		"MD5": "DCC9B3D20731A31325D904477FD5D887",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CaitlynAceintheHole.png"
+	},
+	"Images\\Spells\\CaitlynEntrapment.png": {
+		"MD5": "DBBCEFE0AD4D514A73CCC848B35170DF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CaitlynEntrapment.png"
+	},
+	"Images\\Spells\\CaitlynPiltoverPeacemaker.png": {
+		"MD5": "9900B71BD87EEE438E899DD7ACB8949F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CaitlynPiltoverPeacemaker.png"
+	},
+	"Images\\Spells\\CaitlynYordleTrap.png": {
+		"MD5": "D7897B3B9273875C082DC82E19236DBE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CaitlynYordleTrap.png"
+	},
+	"Images\\Spells\\CamilleE.png": {
+		"MD5": "D25673E44D50BA12A90EF7383B0CAE45",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CamilleE.png"
+	},
+	"Images\\Spells\\CamilleQ.png": {
+		"MD5": "2289DCF48DC455FFEA04BDF2A4DA6196",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CamilleQ.png"
+	},
+	"Images\\Spells\\CamilleR.png": {
+		"MD5": "A30CCAEE2D403A8FAD76C210961B3596",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CamilleR.png"
+	},
+	"Images\\Spells\\CamilleW.png": {
+		"MD5": "56809617B6D84FC2AE5F11EACC853E44",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CamilleW.png"
+	},
+	"Images\\Spells\\CardmasterStack.png": {
+		"MD5": "3FC7A767395E071638738A9632E1696E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CardmasterStack.png"
+	},
+	"Images\\Spells\\CarpetBomb.png": {
+		"MD5": "99FCC588F9EE1430E2F464AB6A48CA7E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CarpetBomb.png"
+	},
+	"Images\\Spells\\CassiopeiaE.png": {
+		"MD5": "588E07E6ADE1BED4074CE13F0186C8CD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CassiopeiaE.png"
+	},
+	"Images\\Spells\\CassiopeiaQ.png": {
+		"MD5": "1B39341AAE56B14F81EAB0DA4AA77806",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CassiopeiaQ.png"
+	},
+	"Images\\Spells\\CassiopeiaR.png": {
+		"MD5": "D91C5E9385EA54A0071E5CA125AECEC2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CassiopeiaR.png"
+	},
+	"Images\\Spells\\CassiopeiaW.png": {
+		"MD5": "5745B01A53619D2EA62DEC00905A4A06",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CassiopeiaW.png"
+	},
+	"Images\\Spells\\ChronoShift.png": {
+		"MD5": "53FB0B82408A5FB30303D6CE04F1F468",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ChronoShift.png"
+	},
+	"Images\\Spells\\Crystallize.png": {
+		"MD5": "EAB4EA9178E6C0B861CEE88E8B3722AD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Crystallize.png"
+	},
+	"Images\\Spells\\CurseoftheSadMummy.png": {
+		"MD5": "FC95AD286CA9E22E37563ABF9C638799",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/CurseoftheSadMummy.png"
+	},
+	"Images\\Spells\\DariusAxeGrabCone.png": {
+		"MD5": "E5C05C004D8045CFFF1ECB2AEA51C9C8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DariusAxeGrabCone.png"
+	},
+	"Images\\Spells\\DariusCleave.png": {
+		"MD5": "BA4A868A0274A4B5386734D9B30AE4A5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DariusCleave.png"
+	},
+	"Images\\Spells\\DariusExecute.png": {
+		"MD5": "EF07B5736CE6B50C16262A7AA844BF8F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DariusExecute.png"
+	},
+	"Images\\Spells\\DariusNoxianTacticsONH.png": {
+		"MD5": "3471692AA9F560C012EA30DE7321EAAA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DariusNoxianTacticsONH.png"
+	},
+	"Images\\Spells\\Deceive.png": {
+		"MD5": "51A6AAE570736371BF1408600A809D0E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Deceive.png"
+	},
+	"Images\\Spells\\DefensiveBallCurl.png": {
+		"MD5": "285277427E06206D5B01FD0471B046EE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DefensiveBallCurl.png"
+	},
+	"Images\\Spells\\Destiny.png": {
+		"MD5": "AE5C7D0C3AFA84F7E48A1451BE5BE554",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Destiny.png"
+	},
+	"Images\\Spells\\DianaOrbs.png": {
+		"MD5": "8FBEBB4C3572D5060DCD95D071CA8CF5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DianaOrbs.png"
+	},
+	"Images\\Spells\\DianaQ.png": {
+		"MD5": "5CC38264BF6BF941D5AD2BE7B64E8B12",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DianaQ.png"
+	},
+	"Images\\Spells\\DianaR.png": {
+		"MD5": "0538F6824FD76902EFB2F3B14EDD6E40",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DianaR.png"
+	},
+	"Images\\Spells\\DianaTeleport.png": {
+		"MD5": "2ADB25005051AF0E2160D607261EC055",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DianaTeleport.png"
+	},
+	"Images\\Spells\\DravenDoubleShot.png": {
+		"MD5": "A081F34E697404875F466370B793369D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DravenDoubleShot.png"
+	},
+	"Images\\Spells\\DravenFury.png": {
+		"MD5": "F16B51E35B17B5C27C49107FF97D4CE5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DravenFury.png"
+	},
+	"Images\\Spells\\DravenRCast.png": {
+		"MD5": "3A5E228376F181131318D1E153C53B70",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DravenRCast.png"
+	},
+	"Images\\Spells\\DravenSpinning.png": {
+		"MD5": "E3A6DC633761FC51065650D42D3B3742",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DravenSpinning.png"
+	},
+	"Images\\Spells\\EkkoE.png": {
+		"MD5": "3D37F9DE0688A85C421A43792745CC48",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EkkoE.png"
+	},
+	"Images\\Spells\\EkkoQ.png": {
+		"MD5": "66FA96158F18978AD34A327A68485119",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EkkoQ.png"
+	},
+	"Images\\Spells\\EkkoR.png": {
+		"MD5": "3F3059A7A7683A454B3D04F77240143D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EkkoR.png"
+	},
+	"Images\\Spells\\EkkoW.png": {
+		"MD5": "067B8B2135D3750023062FCE22C870FA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EkkoW.png"
+	},
+	"Images\\Spells\\EliseHumanE.png": {
+		"MD5": "DF427B8DB10CFC0BC2515270BC6AE1E8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EliseHumanE.png"
+	},
+	"Images\\Spells\\EliseHumanQ.png": {
+		"MD5": "03F9C190D9CA8DA8B3C859E9733A1029",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EliseHumanQ.png"
+	},
+	"Images\\Spells\\EliseHumanW.png": {
+		"MD5": "4F49D5DC10AF0E416B483EE82CED9AE0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EliseHumanW.png"
+	},
+	"Images\\Spells\\EliseR.png": {
+		"MD5": "4349EB37D3D0D23A255EE316C242A508",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EliseR.png"
+	},
+	"Images\\Spells\\EnchantedCrystalArrow.png": {
+		"MD5": "625E4FFDE79DF7CB52518A70DEB1DC49",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EnchantedCrystalArrow.png"
+	},
+	"Images\\Spells\\EvelynnE.png": {
+		"MD5": "47F6CDB763788F37A7A4A12B77E177B7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EvelynnE.png"
+	},
+	"Images\\Spells\\EvelynnQ.png": {
+		"MD5": "92AF7450840BD4C95DEF1445A282A051",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EvelynnQ.png"
+	},
+	"Images\\Spells\\EvelynnR.png": {
+		"MD5": "B8845B18CA1452A5ADD3A3AD39C348B8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EvelynnR.png"
+	},
+	"Images\\Spells\\EvelynnW.png": {
+		"MD5": "5E23CD19EEAE4093AE4B7D0DEB7D49C8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EvelynnW.png"
+	},
+	"Images\\Spells\\EyeOfTheStorm.png": {
+		"MD5": "51E8B83D083BCD8DDEEE850041267982",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EyeOfTheStorm.png"
+	},
+	"Images\\Spells\\EzrealE.png": {
+		"MD5": "A5B91B3C22D9854ABAA327E9B4B6F663",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EzrealE.png"
+	},
+	"Images\\Spells\\EzrealQ.png": {
+		"MD5": "77DDBFB805D19938D390EE1EDCBBC873",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EzrealQ.png"
+	},
+	"Images\\Spells\\EzrealR.png": {
+		"MD5": "9AB89587EB43A8106BB0445CA3A5CDC0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EzrealR.png"
+	},
+	"Images\\Spells\\EzrealW.png": {
+		"MD5": "8E1343C22E2FFA5C815E3804884A3E98",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EzrealW.png"
+	},
+	"Images\\Spells\\Feast.png": {
+		"MD5": "0E4D3D239D7BEAD64F091A7D0B4767D0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Feast.png"
+	},
+	"Images\\Spells\\FeralScream.png": {
+		"MD5": "1BA6A6A4EBD97A1F80FB090B6C23908E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FeralScream.png"
+	},
+	"Images\\Spells\\FerociousHowl.png": {
+		"MD5": "487FC88620A63E7EAB2A5C6BB95DC2CA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FerociousHowl.png"
+	},
+	"Images\\Spells\\FiddleSticksE.png": {
+		"MD5": "83C01C95BC7778710044E6AC2B62C2E2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FiddleSticksE.png"
+	},
+	"Images\\Spells\\FiddleSticksQ.png": {
+		"MD5": "0B8EEAEF9A6F979DB8D5EFF1DB7488BC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FiddleSticksQ.png"
+	},
+	"Images\\Spells\\FiddleSticksR.png": {
+		"MD5": "AF08B5CB04DA0C04F5836BA78594360A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FiddleSticksR.png"
+	},
+	"Images\\Spells\\FiddleSticksW.png": {
+		"MD5": "734F503A1AF15EDEED8F236344C02C9A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FiddleSticksW.png"
+	},
+	"Images\\Spells\\FioraE.png": {
+		"MD5": "EC7BF2A4F0104745DAB7F15F893CEE80",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FioraE.png"
+	},
+	"Images\\Spells\\FioraQ.png": {
+		"MD5": "2AF451024A7306F75753627E4232248E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FioraQ.png"
+	},
+	"Images\\Spells\\FioraR.png": {
+		"MD5": "26DFC755EE3618B39CF0E7034FD2E05D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FioraR.png"
+	},
+	"Images\\Spells\\FioraW.png": {
+		"MD5": "BBB18560C451B9783D6C26FA76426C15",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FioraW.png"
+	},
+	"Images\\Spells\\FizzE.png": {
+		"MD5": "5BDF12AC8B53543BC87C7A9BE5D04705",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FizzE.png"
+	},
+	"Images\\Spells\\FizzQ.png": {
+		"MD5": "C2D3F97E2FDBE02A6A7A7E9DBF03EE3D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FizzQ.png"
+	},
+	"Images\\Spells\\FizzR.png": {
+		"MD5": "2C2537C194C59018805FE0CD25373AD0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FizzR.png"
+	},
+	"Images\\Spells\\FizzW.png": {
+		"MD5": "C0A3210F04F01CA012945D9BFC2CBF56",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FizzW.png"
+	},
+	"Images\\Spells\\FlashFrost.png": {
+		"MD5": "84296FE7E004DECDEC52DEFF88709483",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/FlashFrost.png"
+	},
+	"Images\\Spells\\Fling.png": {
+		"MD5": "95251A9F08C1B542B97114AB910F74D0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Fling.png"
+	},
+	"Images\\Spells\\ForcePulse.png": {
+		"MD5": "3C332CA00CBB6501DBA05488CB60B49C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ForcePulse.png"
+	},
+	"Images\\Spells\\Frostbite.png": {
+		"MD5": "663F36E5B6A525F56A512DB6C0E5E03D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Frostbite.png"
+	},
+	"Images\\Spells\\GalioE.png": {
+		"MD5": "E01B1343D5E36D475BC1CCA71E279047",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GalioE.png"
+	},
+	"Images\\Spells\\GalioQ.png": {
+		"MD5": "BB1BC8E0AF2016E181ED3A82EF134016",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GalioQ.png"
+	},
+	"Images\\Spells\\GalioR.png": {
+		"MD5": "D48763B33DB00D290CB3A79CB58C0E7A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GalioR.png"
+	},
+	"Images\\Spells\\GalioW.png": {
+		"MD5": "3D3356E5A23B8084D4A3FEE7924954A4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GalioW.png"
+	},
+	"Images\\Spells\\GangplankE.png": {
+		"MD5": "60480B3F33B9FF6B28ACBB5E5C38AD19",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GangplankE.png"
+	},
+	"Images\\Spells\\GangplankQWrapper.png": {
+		"MD5": "39BB21EE42FDA0F18F892F7C3CB6F348",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GangplankQWrapper.png"
+	},
+	"Images\\Spells\\GangplankR.png": {
+		"MD5": "E207977E3F6D6D571F27DCE1B0434DCB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GangplankR.png"
+	},
+	"Images\\Spells\\GangplankW.png": {
+		"MD5": "DB036F8A44A35FB555A612C2A8AC1C8B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GangplankW.png"
+	},
+	"Images\\Spells\\GarenE.png": {
+		"MD5": "8B802FDC4346F1CE26295B89DCD43803",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GarenE.png"
+	},
+	"Images\\Spells\\GarenQ.png": {
+		"MD5": "C1384FD0D68B9C0B0270C9641ABD6DAD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GarenQ.png"
+	},
+	"Images\\Spells\\GarenR.png": {
+		"MD5": "9A829380D995A06D8E27B4A3D4A7717D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GarenR.png"
+	},
+	"Images\\Spells\\GarenW.png": {
+		"MD5": "5EE9F603DD6F6376C10C42D42EA3A6DE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GarenW.png"
+	},
+	"Images\\Spells\\GGun.png": {
+		"MD5": "EF16AE865A998AECA7BD6E180068D9BA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GGun.png"
+	},
+	"Images\\Spells\\GlacialStorm.png": {
+		"MD5": "0ECEDE05134436F4854ED470B72ADD66",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GlacialStorm.png"
+	},
+	"Images\\Spells\\GnarE.png": {
+		"MD5": "B8E9B9E8C5C6875F74889E21399196D1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GnarE.png"
+	},
+	"Images\\Spells\\GnarQ.png": {
+		"MD5": "CA342553287CDBEEB13BE46C32B6BDC5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GnarQ.png"
+	},
+	"Images\\Spells\\GnarR.png": {
+		"MD5": "0AA08375ED00404557EE1CA5F9A85ADB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GnarR.png"
+	},
+	"Images\\Spells\\GnarW.png": {
+		"MD5": "241FC7772C46AE781B7D42BA70E94BB7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GnarW.png"
+	},
+	"Images\\Spells\\GragasE.png": {
+		"MD5": "1CBF0C39BCCEC5C54ED16A2CAF82D7D4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GragasE.png"
+	},
+	"Images\\Spells\\GragasQ.png": {
+		"MD5": "9BEBEE57F5C32C02E8B1836708A0C210",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GragasQ.png"
+	},
+	"Images\\Spells\\GragasR.png": {
+		"MD5": "4EA3DC373E183904A0740E37105907B0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GragasR.png"
+	},
+	"Images\\Spells\\GragasW.png": {
+		"MD5": "347A4CE3A669CDAD9B2AEFB99133423C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GragasW.png"
+	},
+	"Images\\Spells\\GravesChargeShot.png": {
+		"MD5": "39004D573E7968948DA9D4E82D4A8633",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GravesChargeShot.png"
+	},
+	"Images\\Spells\\GravesMove.png": {
+		"MD5": "E18FD22C28CCDB5C87EE7A7F5302CABE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GravesMove.png"
+	},
+	"Images\\Spells\\GravesQLineSpell.png": {
+		"MD5": "7678E3A1634F87AFE7751BCE245B0FA2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GravesQLineSpell.png"
+	},
+	"Images\\Spells\\GravesSmokeGrenade.png": {
+		"MD5": "60F0DC5DFFDB7EBB7158269D01C36EF2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/GravesSmokeGrenade.png"
+	},
+	"Images\\Spells\\HallucinateFull.png": {
+		"MD5": "D83ED09A080049DED6FE39F0DCB39F35",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HallucinateFull.png"
+	},
+	"Images\\Spells\\Headbutt.png": {
+		"MD5": "972E041D27105E6387CC701BF6EC3FF5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Headbutt.png"
+	},
+	"Images\\Spells\\HecarimRamp.png": {
+		"MD5": "697F4773ADAAE1C0436747312858E60D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HecarimRamp.png"
+	},
+	"Images\\Spells\\HecarimRapidSlash.png": {
+		"MD5": "3FF6C1ED0B8755B406FDEA82BB3E566A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HecarimRapidSlash.png"
+	},
+	"Images\\Spells\\HecarimUlt.png": {
+		"MD5": "DF34945780395A7080B27A4BF6B865DE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HecarimUlt.png"
+	},
+	"Images\\Spells\\HecarimW.png": {
+		"MD5": "F5B698F5071583F4DD0F3729D74A1E2F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HecarimW.png"
+	},
+	"Images\\Spells\\HeimerdingerE.png": {
+		"MD5": "41EBE2CB938A81422A75143431D2CB96",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HeimerdingerE.png"
+	},
+	"Images\\Spells\\HeimerdingerQ.png": {
+		"MD5": "4F5A7EC9A0E93A7C4FE49141BE0EA06A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HeimerdingerQ.png"
+	},
+	"Images\\Spells\\HeimerdingerR.png": {
+		"MD5": "60642C147ABCC964F6807ACBF436DCC3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HeimerdingerR.png"
+	},
+	"Images\\Spells\\HeimerdingerW.png": {
+		"MD5": "C8B77BB25C873E3826C3A3771A5D2365",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HeimerdingerW.png"
+	},
+	"Images\\Spells\\Highlander.png": {
+		"MD5": "687BD22091800C5EF035005217E35EEE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Highlander.png"
+	},
+	"Images\\Spells\\HowlingGale.png": {
+		"MD5": "EEA18D2F6A39F8E21E4FF743E7FF6403",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HowlingGale.png"
+	},
+	"Images\\Spells\\IllaoiE.png": {
+		"MD5": "6E275888D0256A6852CD1CAD9C193503",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IllaoiE.png"
+	},
+	"Images\\Spells\\IllaoiQ.png": {
+		"MD5": "CDFC4E1B0C0DC50E2350F4E79F82AB21",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IllaoiQ.png"
+	},
+	"Images\\Spells\\IllaoiR.png": {
+		"MD5": "54AC44B9ABD6A99620821D03F5EEB323",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IllaoiR.png"
+	},
+	"Images\\Spells\\IllaoiW.png": {
+		"MD5": "EDF4D07D41B2C05700BD66952398644C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IllaoiW.png"
+	},
+	"Images\\Spells\\InfectedCleaverMissileCast.png": {
+		"MD5": "BE741383F41E662030FA2CF008A111F5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/InfectedCleaverMissileCast.png"
+	},
+	"Images\\Spells\\InsanityPotion.png": {
+		"MD5": "C0B4834652532CA7440081010758C2B6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/InsanityPotion.png"
+	},
+	"Images\\Spells\\IreliaE.png": {
+		"MD5": "7BFCC4294ED98E461F09ED74E27CCF8A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IreliaE.png"
+	},
+	"Images\\Spells\\IreliaQ.png": {
+		"MD5": "40781D8953FC452F1A6C2964C8F125DA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IreliaQ.png"
+	},
+	"Images\\Spells\\IreliaR.png": {
+		"MD5": "D8F175057913AD1A1AD18700ADADB31A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IreliaR.png"
+	},
+	"Images\\Spells\\IreliaW.png": {
+		"MD5": "8D3A94837FAA144A4CB8DE65D227C938",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IreliaW.png"
+	},
+	"Images\\Spells\\IvernE.png": {
+		"MD5": "F5075C60BEFE35A51F5216DBFC154C30",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IvernE.png"
+	},
+	"Images\\Spells\\IvernQ.png": {
+		"MD5": "7431E0636CFAF588F3B4B9CD2DD13F6D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IvernQ.png"
+	},
+	"Images\\Spells\\IvernR.png": {
+		"MD5": "2ED6DA1647145672EB6467D9D0008291",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IvernR.png"
+	},
+	"Images\\Spells\\IvernW.png": {
+		"MD5": "DF9D46BE788EE464AC5F81D730671923",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IvernW.png"
+	},
+	"Images\\Spells\\JackInTheBox.png": {
+		"MD5": "61AFA053C7A747A5BFDA5431A3C43CF4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JackInTheBox.png"
+	},
+	"Images\\Spells\\JarvanIVCataclysm.png": {
+		"MD5": "5052999AD4F5301ECFF44555415D78C5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JarvanIVCataclysm.png"
+	},
+	"Images\\Spells\\JarvanIVDemacianStandard.png": {
+		"MD5": "1913C9897D6F7B5A3F4ECF127368D2F0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JarvanIVDemacianStandard.png"
+	},
+	"Images\\Spells\\JarvanIVDragonStrike.png": {
+		"MD5": "761AAE2A77331CDE2CF4C4D4164184FC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JarvanIVDragonStrike.png"
+	},
+	"Images\\Spells\\JarvanIVGoldenAegis.png": {
+		"MD5": "1EEA539490EC612B7CE83700D90E1058",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JarvanIVGoldenAegis.png"
+	},
+	"Images\\Spells\\JavelinToss.png": {
+		"MD5": "A6615719584C75ED09DF56AF70C5A0DE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JavelinToss.png"
+	},
+	"Images\\Spells\\JaxCounterStrike.png": {
+		"MD5": "FBF6448A30618F3322C45CC78DD2CAF9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JaxCounterStrike.png"
+	},
+	"Images\\Spells\\JaxEmpowerTwo.png": {
+		"MD5": "88E55ECE04EB4BCE8683D41199CACC93",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JaxEmpowerTwo.png"
+	},
+	"Images\\Spells\\JaxLeapStrike.png": {
+		"MD5": "B8FAB98CB10CC2FDBDAC37ED274FDD6B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JaxLeapStrike.png"
+	},
+	"Images\\Spells\\JaxRelentlessAssault.png": {
+		"MD5": "D8E43AB3FB2329A8D5C4AD970A714E08",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JaxRelentlessAssault.png"
+	},
+	"Images\\Spells\\JayceStanceHtG.png": {
+		"MD5": "809AA2F10FD268B7972CC91EA941751E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JayceStanceHtG.png"
+	},
+	"Images\\Spells\\JayceStaticField.png": {
+		"MD5": "EB755BB9D6536E1B921A95790CBA605E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JayceStaticField.png"
+	},
+	"Images\\Spells\\JayceThunderingBlow.png": {
+		"MD5": "9A2AB7CD6B72AF976E5C55F06430674C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JayceThunderingBlow.png"
+	},
+	"Images\\Spells\\JayceToTheSkies.png": {
+		"MD5": "3235584CBD298F3BD6AD6BDAFBA2FECA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JayceToTheSkies.png"
+	},
+	"Images\\Spells\\JhinE.png": {
+		"MD5": "6ADD41E78FB385AD8EBF1352AFC3F705",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JhinE.png"
+	},
+	"Images\\Spells\\JhinQ.png": {
+		"MD5": "96C5FAA725F780539E750EEE22F51DFD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JhinQ.png"
+	},
+	"Images\\Spells\\JhinR.png": {
+		"MD5": "BBC250E8B084D244CE522DB419B1CA55",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JhinR.png"
+	},
+	"Images\\Spells\\JhinW.png": {
+		"MD5": "EC8B585BB4C269DCE391CDA8351C8125",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JhinW.png"
+	},
+	"Images\\Spells\\JinxE.png": {
+		"MD5": "D23E3231A1492EB02C026E7272CD3FA7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JinxE.png"
+	},
+	"Images\\Spells\\JinxQ.png": {
+		"MD5": "976895598B4E2D0C3FFD9B1BD2E0B851",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JinxQ.png"
+	},
+	"Images\\Spells\\JinxR.png": {
+		"MD5": "EC180494B91F60966217117D3EF4AD4F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JinxR.png"
+	},
+	"Images\\Spells\\JinxW.png": {
+		"MD5": "56AAD9B1C6226614FF8D3C5225DE6E4A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/JinxW.png"
+	},
+	"Images\\Spells\\KaisaE.png": {
+		"MD5": "D1331BE8A9EA7B2D078509188CD55155",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaisaE.png"
+	},
+	"Images\\Spells\\KaisaQ.png": {
+		"MD5": "4AAD5F09B85E6A4A8877145C92AB32F0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaisaQ.png"
+	},
+	"Images\\Spells\\KaisaR.png": {
+		"MD5": "85E95C56292CAE97DCF376959FD14280",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaisaR.png"
+	},
+	"Images\\Spells\\KaisaW.png": {
+		"MD5": "D33981F8E23507E0B2ABEBE5ADB4C2C8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaisaW.png"
+	},
+	"Images\\Spells\\KalistaExpungeWrapper.png": {
+		"MD5": "2991A3754A31967CC840FBCDCBFD4735",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KalistaExpungeWrapper.png"
+	},
+	"Images\\Spells\\KalistaMysticShot.png": {
+		"MD5": "34B4F2A9CD4C38F3379A1C0480D0B240",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KalistaMysticShot.png"
+	},
+	"Images\\Spells\\KalistaRx.png": {
+		"MD5": "17FA74827C6B6EF4AC1C29A4D9C3203A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KalistaRx.png"
+	},
+	"Images\\Spells\\KalistaW.png": {
+		"MD5": "264E485FF98E739D51FF765F839D902F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KalistaW.png"
+	},
+	"Images\\Spells\\KarmaMantra.png": {
+		"MD5": "EF3751DEC65E82C8A33E327656CA3C6D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarmaMantra.png"
+	},
+	"Images\\Spells\\KarmaQ.png": {
+		"MD5": "781E26A30E4A99FF9F55BD7A1991464A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarmaQ.png"
+	},
+	"Images\\Spells\\KarmaSolKimShield.png": {
+		"MD5": "3AB617F28C14EC754A69528E5687996C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarmaSolKimShield.png"
+	},
+	"Images\\Spells\\KarmaSpiritBind.png": {
+		"MD5": "5DD3801192F99B37C999FBAA887AAD53",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarmaSpiritBind.png"
+	},
+	"Images\\Spells\\KarthusDefile.png": {
+		"MD5": "3989E0C2C0BC73D24C3C7E512870BA0A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarthusDefile.png"
+	},
+	"Images\\Spells\\KarthusFallenOne.png": {
+		"MD5": "579A2D3932EA4DEFEF1642334E09A4C6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarthusFallenOne.png"
+	},
+	"Images\\Spells\\KarthusLayWasteA1.png": {
+		"MD5": "1CF9FDED20963BBF69C4922B574B3EC8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarthusLayWasteA1.png"
+	},
+	"Images\\Spells\\KarthusWallOfPain.png": {
+		"MD5": "F3832B7AFCDAEF864747DA66CA3021EB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KarthusWallOfPain.png"
+	},
+	"Images\\Spells\\KatarinaEWrapper.png": {
+		"MD5": "2CA707D7450E4AD83949DD751131F0FB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KatarinaEWrapper.png"
+	},
+	"Images\\Spells\\KatarinaQ.png": {
+		"MD5": "D0470F28372125494A2AE8B3A2E2A8B6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KatarinaQ.png"
+	},
+	"Images\\Spells\\KatarinaR.png": {
+		"MD5": "21F4397BA1F0A822DFDD20A338D0A10F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KatarinaR.png"
+	},
+	"Images\\Spells\\KatarinaW.png": {
+		"MD5": "5C10E49BA9AF6E23B4C7898F12803C55",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KatarinaW.png"
+	},
+	"Images\\Spells\\KayleE.png": {
+		"MD5": "9907C6054BB67D3B3AF073638C119F05",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KayleE.png"
+	},
+	"Images\\Spells\\KayleQ.png": {
+		"MD5": "A074AD16CEED9059B2CA7DFC8AE9E91B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KayleQ.png"
+	},
+	"Images\\Spells\\KayleR.png": {
+		"MD5": "F92C18F40EEAA9CB5D2CBD6AA2BC28F2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KayleR.png"
+	},
+	"Images\\Spells\\KayleW.png": {
+		"MD5": "D90A19B712E6A9DC3DB5B5F374E56F39",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KayleW.png"
+	},
+	"Images\\Spells\\KaynE.png": {
+		"MD5": "C2B041735EA9392891E9493BB123FAC9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaynE.png"
+	},
+	"Images\\Spells\\KaynQ.png": {
+		"MD5": "F773C730B120EF83D058540F18C26DF7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaynQ.png"
+	},
+	"Images\\Spells\\KaynR.png": {
+		"MD5": "F3407E708735283F19263CE85F0F877B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaynR.png"
+	},
+	"Images\\Spells\\KaynW.png": {
+		"MD5": "CACF85A9B2ADF05CDFC0435C04128317",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KaynW.png"
+	},
+	"Images\\Spells\\KennenBringTheLight.png": {
+		"MD5": "37CA2DAB181186D0DCFF2406FE09196C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KennenBringTheLight.png"
+	},
+	"Images\\Spells\\KennenLightningRush.png": {
+		"MD5": "C74B042B9F15B8F4D85081C80C0EBFBC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KennenLightningRush.png"
+	},
+	"Images\\Spells\\KennenShurikenHurlMissile1.png": {
+		"MD5": "8D9B6262F7C6AE24FE9511D8E046CF91",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KennenShurikenHurlMissile1.png"
+	},
+	"Images\\Spells\\KennenShurikenStorm.png": {
+		"MD5": "1BFE316F0D701BF99F627EC862B0FA37",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KennenShurikenStorm.png"
+	},
+	"Images\\Spells\\KhazixE.png": {
+		"MD5": "6117FE05EAC62C7FC9F0718E864E5AB8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KhazixE.png"
+	},
+	"Images\\Spells\\KhazixQ.png": {
+		"MD5": "446E6052A04F738E362AD8DAE918165D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KhazixQ.png"
+	},
+	"Images\\Spells\\KhazixR.png": {
+		"MD5": "7BDFF10C10DE1C49A738A8C16694E5C7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KhazixR.png"
+	},
+	"Images\\Spells\\KhazixW.png": {
+		"MD5": "4A68612DE010218D4038E03E00DAA455",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KhazixW.png"
+	},
+	"Images\\Spells\\KindredEWrapper.png": {
+		"MD5": "AF58F27B95DF445C572FE196B8900785",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KindredEWrapper.png"
+	},
+	"Images\\Spells\\KindredQ.png": {
+		"MD5": "BCD7B8729D2F14535E7A89A595E8D923",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KindredQ.png"
+	},
+	"Images\\Spells\\KindredR.png": {
+		"MD5": "063ACDCCE0F6403C6BD969BCF5ED77E3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KindredR.png"
+	},
+	"Images\\Spells\\KindredW.png": {
+		"MD5": "647EE62205C03AFCC7B8746E01B8E8B0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KindredW.png"
+	},
+	"Images\\Spells\\KledE.png": {
+		"MD5": "BDAE3966C7ED60845ED619B24A251BD6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KledE.png"
+	},
+	"Images\\Spells\\KledQ.png": {
+		"MD5": "36328AA2A784B52E97BF3DE4C1C9E2D0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KledQ.png"
+	},
+	"Images\\Spells\\KledR.png": {
+		"MD5": "73BF6713462C7EF832837718D39C57F1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KledR.png"
+	},
+	"Images\\Spells\\KledW.png": {
+		"MD5": "D349EE1740FB6D8A5B481298A16C17BE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KledW.png"
+	},
+	"Images\\Spells\\KogMawBioArcaneBarrage.png": {
+		"MD5": "E467F57EAFA8B92375AB61731410568D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KogMawBioArcaneBarrage.png"
+	},
+	"Images\\Spells\\KogMawLivingArtillery.png": {
+		"MD5": "48BCE54D2AEE44E6F7710DA6ABB21EF8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KogMawLivingArtillery.png"
+	},
+	"Images\\Spells\\KogMawQ.png": {
+		"MD5": "96CA1248BA57955B12B51D8E743C2817",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KogMawQ.png"
+	},
+	"Images\\Spells\\KogMawVoidOoze.png": {
+		"MD5": "03C351394C3CFF72283592C3AB702454",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/KogMawVoidOoze.png"
+	},
+	"Images\\Spells\\Landslide.png": {
+		"MD5": "BC5BB4CA67A8B356649F44F8337E2AA8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Landslide.png"
+	},
+	"Images\\Spells\\LeblancE.png": {
+		"MD5": "FA04060147D136327FF954DA5B6E6195",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeblancE.png"
+	},
+	"Images\\Spells\\LeblancQ.png": {
+		"MD5": "4A799A1A6FDB05EAC2E64FAA1896FB7A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeblancQ.png"
+	},
+	"Images\\Spells\\LeblancR.png": {
+		"MD5": "0877EB26213A24A50D64A12E958A2709",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeblancR.png"
+	},
+	"Images\\Spells\\LeblancW.png": {
+		"MD5": "28D066DE677C037F5C6B9DB797EAAD2E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeblancW.png"
+	},
+	"Images\\Spells\\LeonaShieldOfDaybreak.png": {
+		"MD5": "E33767D8E9E557941A768B9FCDC8B444",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeonaShieldOfDaybreak.png"
+	},
+	"Images\\Spells\\LeonaSolarBarrier.png": {
+		"MD5": "91FA8052880CF50F6FE1D44C4763215D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeonaSolarBarrier.png"
+	},
+	"Images\\Spells\\LeonaSolarFlare.png": {
+		"MD5": "C67C831D67673CC9DD780470A79579D0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeonaSolarFlare.png"
+	},
+	"Images\\Spells\\LeonaZenithBlade.png": {
+		"MD5": "0B108B0EC23D27109CDBAEFE6FBA6C69",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LeonaZenithBlade.png"
+	},
+	"Images\\Spells\\LilliaE.png": {
+		"MD5": "A8469644D407B25BC588DD0EF5101D97",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LilliaE.png"
+	},
+	"Images\\Spells\\LilliaQ.png": {
+		"MD5": "0969617BE7850066A6586D590ED0B2B3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LilliaQ.png"
+	},
+	"Images\\Spells\\LilliaR.png": {
+		"MD5": "A2FD3FD66C15B39A5B464480AFCF1C3E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LilliaR.png"
+	},
+	"Images\\Spells\\LilliaW.png": {
+		"MD5": "2FBA5934C7D7C0FD472E4E6905350B20",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LilliaW.png"
+	},
+	"Images\\Spells\\LissandraE.png": {
+		"MD5": "B0BEB4CEAC9F39E95B35C1BCE51716BF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LissandraE.png"
+	},
+	"Images\\Spells\\LissandraQ.png": {
+		"MD5": "265115BA2A4FCE1A73290D69E500355E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LissandraQ.png"
+	},
+	"Images\\Spells\\LissandraR.png": {
+		"MD5": "1F52E9C4E47A45818FAE17EFD90F3898",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LissandraR.png"
+	},
+	"Images\\Spells\\LissandraW.png": {
+		"MD5": "BAF328C5D899954310D05EA697A0EBE2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LissandraW.png"
+	},
+	"Images\\Spells\\LucianE.png": {
+		"MD5": "6224DDE31605C96E869EF254D9229D8B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LucianE.png"
+	},
+	"Images\\Spells\\LucianQ.png": {
+		"MD5": "9356F000A812AC3BCCD9E7FC2E7D26E9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LucianQ.png"
+	},
+	"Images\\Spells\\LucianR.png": {
+		"MD5": "B47187206B9A71B3A3C390DC55C57CF2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LucianR.png"
+	},
+	"Images\\Spells\\LucianW.png": {
+		"MD5": "8ABF6EEE5E19FE753F6D9B3485D043C5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LucianW.png"
+	},
+	"Images\\Spells\\LuluE.png": {
+		"MD5": "FBEB9084158D3727083487EAE270F6E2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuluE.png"
+	},
+	"Images\\Spells\\LuluQ.png": {
+		"MD5": "A70E9F61AB01077B045E914390DB3530",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuluQ.png"
+	},
+	"Images\\Spells\\LuluR.png": {
+		"MD5": "3ED93010FF00B77F9B28C1113FBDF9CB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuluR.png"
+	},
+	"Images\\Spells\\LuluW.png": {
+		"MD5": "33222883A4413D8FCB80554104F8A591",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuluW.png"
+	},
+	"Images\\Spells\\LuxLightBinding.png": {
+		"MD5": "F287FDE3926C1DA8B307FD582FE35ECA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuxLightBinding.png"
+	},
+	"Images\\Spells\\LuxLightStrikeKugel.png": {
+		"MD5": "3F3AF466EDF4A9559801B13D7B277377",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuxLightStrikeKugel.png"
+	},
+	"Images\\Spells\\LuxMaliceCannon.png": {
+		"MD5": "E8CABD42FBB95CDC4930C32AC15CDEB6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuxMaliceCannon.png"
+	},
+	"Images\\Spells\\LuxPrismaticWave.png": {
+		"MD5": "C77984713E69EA952CCB0A15DF1FA153",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuxPrismaticWave.png"
+	},
+	"Images\\Spells\\MalzaharE.png": {
+		"MD5": "ECE2E03EA5FE80FF54DB1BA82E03E7F1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MalzaharE.png"
+	},
+	"Images\\Spells\\MalzaharQ.png": {
+		"MD5": "1CA844EDDB33E7B0ACE83C1BCE018453",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MalzaharQ.png"
+	},
+	"Images\\Spells\\MalzaharR.png": {
+		"MD5": "1B5E5E01FEDF80EB3A783CBA2375158D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MalzaharR.png"
+	},
+	"Images\\Spells\\MalzaharW.png": {
+		"MD5": "184133F4E200C5E72B378D2B3527D5E4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MalzaharW.png"
+	},
+	"Images\\Spells\\MaokaiE.png": {
+		"MD5": "ACEA7047AC8FCD83E656D0E4FE8958F1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MaokaiE.png"
+	},
+	"Images\\Spells\\MaokaiQ.png": {
+		"MD5": "132207F2260439146727EF6E3732FCB2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MaokaiQ.png"
+	},
+	"Images\\Spells\\MaokaiR.png": {
+		"MD5": "C9D75EF53258E50A634A92588DC4C443",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MaokaiR.png"
+	},
+	"Images\\Spells\\MaokaiW.png": {
+		"MD5": "1DB626A0C4068185CDDC6552FE0E92C1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MaokaiW.png"
+	},
+	"Images\\Spells\\Masochism.png": {
+		"MD5": "FB229C93585E4F13632DE4C5548E4662",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Masochism.png"
+	},
+	"Images\\Spells\\Meditate.png": {
+		"MD5": "76C2FA348AD494092A3CA11F882F40D3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Meditate.png"
+	},
+	"Images\\Spells\\MegaAdhesive.png": {
+		"MD5": "8BC745ADBB8C48DB8EA91A4FF877A67F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MegaAdhesive.png"
+	},
+	"Images\\Spells\\MissFortuneBulletTime.png": {
+		"MD5": "CB8CB4509BCE3C7D46061FE320AC8A2F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MissFortuneBulletTime.png"
+	},
+	"Images\\Spells\\MissFortuneRicochetShot.png": {
+		"MD5": "887C243BC5D0925BD9CA8693EC0596CF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MissFortuneRicochetShot.png"
+	},
+	"Images\\Spells\\MissFortuneScattershot.png": {
+		"MD5": "256DD4FE03121E54C56D62A103096D14",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MissFortuneScattershot.png"
+	},
+	"Images\\Spells\\MissFortuneViciousStrikes.png": {
+		"MD5": "655F77E186DA1D691DEB69715F42454A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MissFortuneViciousStrikes.png"
+	},
+	"Images\\Spells\\MissileBarrage.png": {
+		"MD5": "B2E63E80C8A6352FB7B6F2E2EF74DE6C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MissileBarrage.png"
+	},
+	"Images\\Spells\\MonkeyKingDecoy.png": {
+		"MD5": "D7714EB4BD15D35F19A842CB2828CD49",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MonkeyKingDecoy.png"
+	},
+	"Images\\Spells\\MonkeyKingDoubleAttack.png": {
+		"MD5": "509C94167F3392200AEAB35F21BACB8E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MonkeyKingDoubleAttack.png"
+	},
+	"Images\\Spells\\MonkeyKingNimbus.png": {
+		"MD5": "547A60F573F116B5E595E7D2C08A490F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MonkeyKingNimbus.png"
+	},
+	"Images\\Spells\\MonkeyKingSpinToWin.png": {
+		"MD5": "CB8EBF178AF0127DB686DDCB178C122B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MonkeyKingSpinToWin.png"
+	},
+	"Images\\Spells\\MordekaiserE.png": {
+		"MD5": "EB7212E6A78C9ADC2167E4F99D76F69F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MordekaiserE.png"
+	},
+	"Images\\Spells\\MordekaiserQ.png": {
+		"MD5": "CBCC9ADB2591DAB73DBE1564542F352F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MordekaiserQ.png"
+	},
+	"Images\\Spells\\MordekaiserR.png": {
+		"MD5": "A67869AE6866A8B742B9B383916666AC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MordekaiserR.png"
+	},
+	"Images\\Spells\\MordekaiserW.png": {
+		"MD5": "C75CCECC8C5359AA19CA6CD5C43B63A0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MordekaiserW.png"
+	},
+	"Images\\Spells\\MorganaE.png": {
+		"MD5": "38C79F58588724657CC3384DB088AC00",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MorganaE.png"
+	},
+	"Images\\Spells\\MorganaQ.png": {
+		"MD5": "EBDF82DF7311A875A825FE0252591147",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MorganaQ.png"
+	},
+	"Images\\Spells\\MorganaR.png": {
+		"MD5": "886C3CF18835A4829090FAB6762B6A7C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MorganaR.png"
+	},
+	"Images\\Spells\\MorganaW.png": {
+		"MD5": "9E8F0F3D45AA28CB65055261EC407759",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MorganaW.png"
+	},
+	"Images\\Spells\\MoveQuick.png": {
+		"MD5": "9A82F71C55E7DA8F002DB5A3183AAF1D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/MoveQuick.png"
+	},
+	"Images\\Spells\\NamiE.png": {
+		"MD5": "16DF2234D11DB442E382CC983173E75A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NamiE.png"
+	},
+	"Images\\Spells\\NamiQ.png": {
+		"MD5": "F70EAA7912847A258B47C3B184267D51",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NamiQ.png"
+	},
+	"Images\\Spells\\NamiR.png": {
+		"MD5": "6FF018D88F25EE69ADD061FEB83D1D7C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NamiR.png"
+	},
+	"Images\\Spells\\NamiW.png": {
+		"MD5": "CA74760B57EB779728AD2E51BED7FB7A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NamiW.png"
+	},
+	"Images\\Spells\\NasusE.png": {
+		"MD5": "080BEFAB7EBC1A1C6ED4991BEDF69F5F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NasusE.png"
+	},
+	"Images\\Spells\\NasusQ.png": {
+		"MD5": "79B04F92FADBF88A13B91E6C717261EA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NasusQ.png"
+	},
+	"Images\\Spells\\NasusR.png": {
+		"MD5": "BE8F64CBDD7A116E629D0CB7737C4138",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NasusR.png"
+	},
+	"Images\\Spells\\NasusW.png": {
+		"MD5": "133310E34EF914AA93D1822A67573456",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NasusW.png"
+	},
+	"Images\\Spells\\NautilusAnchorDrag.png": {
+		"MD5": "5EAAB5E13503F07E0B5718DE9533DA04",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NautilusAnchorDrag.png"
+	},
+	"Images\\Spells\\NautilusGrandLine.png": {
+		"MD5": "A2240068756B5D6DC4B449A303E67663",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NautilusGrandLine.png"
+	},
+	"Images\\Spells\\NautilusPiercingGaze.png": {
+		"MD5": "6D33EB9BFEF4A58D7243DDE0B846841E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NautilusPiercingGaze.png"
+	},
+	"Images\\Spells\\NautilusSplashZone.png": {
+		"MD5": "1164B42C5E3E4252A7A1F9192899F459",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NautilusSplashZone.png"
+	},
+	"Images\\Spells\\NeekoE.png": {
+		"MD5": "DB1D6EF645803C5926606356D4A6D112",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NeekoE.png"
+	},
+	"Images\\Spells\\NeekoQ.png": {
+		"MD5": "6488A086C833AEFDB374ADFE850F3B17",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NeekoQ.png"
+	},
+	"Images\\Spells\\NeekoR.png": {
+		"MD5": "A97169C627550001AA5A88097907F589",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NeekoR.png"
+	},
+	"Images\\Spells\\NeekoW.png": {
+		"MD5": "EC0557C7FECA4F252F69F55ACD0C89A2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NeekoW.png"
+	},
+	"Images\\Spells\\NetherBlade.png": {
+		"MD5": "E2F67B89357F1F8F48010A70067054A0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NetherBlade.png"
+	},
+	"Images\\Spells\\NocturneDuskbringer.png": {
+		"MD5": "E9572F498BA527E75B4AF45E60B0D2CC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NocturneDuskbringer.png"
+	},
+	"Images\\Spells\\NocturneParanoia.png": {
+		"MD5": "786BADCD5473A9A4BE3AAB9A4014E0DE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NocturneParanoia.png"
+	},
+	"Images\\Spells\\NocturneShroudofDarkness.png": {
+		"MD5": "90E9F4462508C800C169FBDC65438E7F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NocturneShroudofDarkness.png"
+	},
+	"Images\\Spells\\NocturneUnspeakableHorror.png": {
+		"MD5": "12EEAB06EA2D60CE8B8A5ECDF1950FED",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NocturneUnspeakableHorror.png"
+	},
+	"Images\\Spells\\NullLance.png": {
+		"MD5": "EA0EF6F7AC4C9B3CC9526A521328BB74",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NullLance.png"
+	},
+	"Images\\Spells\\NunuE.png": {
+		"MD5": "EF485BC2EFA9421C6528E282B6B70A90",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NunuE.png"
+	},
+	"Images\\Spells\\NunuQ.png": {
+		"MD5": "38340576E63BF5273411F4D8D43B6597",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NunuQ.png"
+	},
+	"Images\\Spells\\NunuR.png": {
+		"MD5": "E4960A2862D9419081F909F6900322AC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NunuR.png"
+	},
+	"Images\\Spells\\NunuW.png": {
+		"MD5": "86546176C990BCDD36833A892FE1F8D4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/NunuW.png"
+	},
+	"Images\\Spells\\Obduracy.png": {
+		"MD5": "78722180B9CD5085E95DE7048531EF32",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Obduracy.png"
+	},
+	"Images\\Spells\\OlafAxeThrowCast.png": {
+		"MD5": "AB26E84BF6B88E2A6C78626FFF09A33C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OlafAxeThrowCast.png"
+	},
+	"Images\\Spells\\OlafFrenziedStrikes.png": {
+		"MD5": "0AB8F2AD967712339CF7755E1CED23C4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OlafFrenziedStrikes.png"
+	},
+	"Images\\Spells\\OlafRagnarok.png": {
+		"MD5": "FFABD61495C0BC3A89B4211AD9047CC5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OlafRagnarok.png"
+	},
+	"Images\\Spells\\OlafRecklessStrike.png": {
+		"MD5": "180AF09CEB2F5BEEE3CB058FAEDBF20C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OlafRecklessStrike.png"
+	},
+	"Images\\Spells\\OrianaDetonateCommand.png": {
+		"MD5": "14FA91612A05BBA145D3991B4A4BB70A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrianaDetonateCommand.png"
+	},
+	"Images\\Spells\\OrianaDissonanceCommand.png": {
+		"MD5": "39A0FABC4790EFAECDB552B410E15FD3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrianaDissonanceCommand.png"
+	},
+	"Images\\Spells\\OrianaIzunaCommand.png": {
+		"MD5": "3674C7589464379E42C991423E532A59",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrianaIzunaCommand.png"
+	},
+	"Images\\Spells\\OrianaRedactCommand.png": {
+		"MD5": "A1C0F9EF9A3770FBE8709B1C04DB7522",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrianaRedactCommand.png"
+	},
+	"Images\\Spells\\OrnnE.png": {
+		"MD5": "3F8B97AE84105115833D729380EABD97",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrnnE.png"
+	},
+	"Images\\Spells\\OrnnQ.png": {
+		"MD5": "F80618B9B4780209F14915521440389E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrnnQ.png"
+	},
+	"Images\\Spells\\OrnnR.png": {
+		"MD5": "761A4D6A0173760D1365C66514A1EE3D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrnnR.png"
+	},
+	"Images\\Spells\\OrnnW.png": {
+		"MD5": "308037DCD3136DD8DC89E14ABBE07976",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/OrnnW.png"
+	},
+	"Images\\Spells\\Overdrive.png": {
+		"MD5": "3C86421C5E242D21CD930F074D58E001",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Overdrive.png"
+	},
+	"Images\\Spells\\PantheonE.png": {
+		"MD5": "6DDCD4B6869730CD3B996DE87AAE7101",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PantheonE.png"
+	},
+	"Images\\Spells\\PantheonQ.png": {
+		"MD5": "2892A43CE0D1C7703667DEE69B1BEFB1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PantheonQ.png"
+	},
+	"Images\\Spells\\PantheonR.png": {
+		"MD5": "F8A01543BA7B2DC25BCBAFD64DC1D69F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PantheonR.png"
+	},
+	"Images\\Spells\\PantheonW.png": {
+		"MD5": "BADF0153E446428C5C2EC1BF43C23754",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PantheonW.png"
+	},
+	"Images\\Spells\\PhosphorusBomb.png": {
+		"MD5": "FE6417430F26543BEF694FED34762FC5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PhosphorusBomb.png"
+	},
+	"Images\\Spells\\PickACard.png": {
+		"MD5": "DA863DEC0CC094BDF457DBFF9A1AB59B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PickACard.png"
+	},
+	"Images\\Spells\\PoisonTrail.png": {
+		"MD5": "96D0EC6506D1EC670EF33BDB10499A69",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PoisonTrail.png"
+	},
+	"Images\\Spells\\PoppyE.png": {
+		"MD5": "0577095AC426F12FB462BE5A3D2EE19F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PoppyE.png"
+	},
+	"Images\\Spells\\PoppyQ.png": {
+		"MD5": "35706571C6533EA650A0CC641B19D6C0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PoppyQ.png"
+	},
+	"Images\\Spells\\PoppyR.png": {
+		"MD5": "84B023FB4D3DB2CEE036A866A6D8CED9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PoppyR.png"
+	},
+	"Images\\Spells\\PoppyW.png": {
+		"MD5": "C6E6AE37531EFE4D53C3998E09B67910",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PoppyW.png"
+	},
+	"Images\\Spells\\PowerBall.png": {
+		"MD5": "0EF6B93EF87DD9137F1950C9FF7CA5A6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PowerBall.png"
+	},
+	"Images\\Spells\\PowerFist.png": {
+		"MD5": "CD393136F0A4C02BD7561584864FFB83",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PowerFist.png"
+	},
+	"Images\\Spells\\PrimalSurge.png": {
+		"MD5": "6B32AD5F9917770B65A37CAB0EFBEA58",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PrimalSurge.png"
+	},
+	"Images\\Spells\\Pulverize.png": {
+		"MD5": "A65D79B735FA747F548CBB70BEFC0010",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Pulverize.png"
+	},
+	"Images\\Spells\\PuncturingTaunt.png": {
+		"MD5": "DE46F18E338842DF87FC5A6DD70B56EA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PuncturingTaunt.png"
+	},
+	"Images\\Spells\\PykeE.png": {
+		"MD5": "C2FA3571FCC415DF7D338BD890F73C6D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PykeE.png"
+	},
+	"Images\\Spells\\PykeQ.png": {
+		"MD5": "C880DA9CCAC7CA4CFFF71B2A80AE71FF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PykeQ.png"
+	},
+	"Images\\Spells\\PykeR.png": {
+		"MD5": "5CAE4A264EB9C1B3FFE44D78923A0374",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PykeR.png"
+	},
+	"Images\\Spells\\PykeW.png": {
+		"MD5": "6AF9842C870D22D87A0D16124B5E83F6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/PykeW.png"
+	},
+	"Images\\Spells\\QiyanaE.png": {
+		"MD5": "7EA96F81B4819A780A4213D73CEFBA55",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QiyanaE.png"
+	},
+	"Images\\Spells\\QiyanaQ.png": {
+		"MD5": "6A8C33D992956C2AD41E40A4CD4CC1CE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QiyanaQ.png"
+	},
+	"Images\\Spells\\QiyanaR.png": {
+		"MD5": "6084F10D220E729E9B0E354BC90E2714",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QiyanaR.png"
+	},
+	"Images\\Spells\\QiyanaW.png": {
+		"MD5": "DDA566E75B1CE9E946F361AC9FB15CC6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QiyanaW.png"
+	},
+	"Images\\Spells\\QuinnE.png": {
+		"MD5": "8FB5D20042BF83631F85E04CA410DDA6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QuinnE.png"
+	},
+	"Images\\Spells\\QuinnQ.png": {
+		"MD5": "99B2F48971F1490A38D977CC12B35A1B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QuinnQ.png"
+	},
+	"Images\\Spells\\QuinnR.png": {
+		"MD5": "5ADBCD6371AE3362A7AF9E38ED205FDE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QuinnR.png"
+	},
+	"Images\\Spells\\QuinnW.png": {
+		"MD5": "8F4F49FF9AA4F06EC9D93930EDC14CA0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/QuinnW.png"
+	},
+	"Images\\Spells\\RakanE.png": {
+		"MD5": "BB52AFDB82DB3B5CC10F683E4D4F3D36",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RakanE.png"
+	},
+	"Images\\Spells\\RakanQ.png": {
+		"MD5": "C4B5ED393064BE1394ED128177A31C93",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RakanQ.png"
+	},
+	"Images\\Spells\\RakanR.png": {
+		"MD5": "6BE1A33CB2509085B436D24BC67F6549",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RakanR.png"
+	},
+	"Images\\Spells\\RakanW.png": {
+		"MD5": "8D39AA53B91EC64CDF5663FC22AD63EB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RakanW.png"
+	},
+	"Images\\Spells\\ReapTheWhirlwind.png": {
+		"MD5": "10442615700DC741A63F6D046F5B0BCE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ReapTheWhirlwind.png"
+	},
+	"Images\\Spells\\RekSaiE.png": {
+		"MD5": "6553439FD8D545A76263DC6943C69772",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RekSaiE.png"
+	},
+	"Images\\Spells\\RekSaiQ.png": {
+		"MD5": "89EEE4758240542A56271E82D0A8148F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RekSaiQ.png"
+	},
+	"Images\\Spells\\RekSaiRWrapper.png": {
+		"MD5": "56D6F2A86A0CA34504B54BCEAF0E7F34",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RekSaiRWrapper.png"
+	},
+	"Images\\Spells\\RekSaiW.png": {
+		"MD5": "91380552A0F73F6366AC2089928F228B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RekSaiW.png"
+	},
+	"Images\\Spells\\RellE.png": {
+		"MD5": "DEA7DB52F96DE53EF9C7EA0D58450743",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RellE.png"
+	},
+	"Images\\Spells\\RellQ.png": {
+		"MD5": "F93D35AF7D5B75419CB00469E785E378",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RellQ.png"
+	},
+	"Images\\Spells\\RellR.png": {
+		"MD5": "58243C443B0A99B319A959330FF6BFCF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RellR.png"
+	},
+	"Images\\Spells\\RellW_Dismount.png": {
+		"MD5": "6970C60F6DA8FBC29B3440DBF0CEED67",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RellW_Dismount.png"
+	},
+	"Images\\Spells\\RenektonCleave.png": {
+		"MD5": "AD79D4EA48B7BB155BF428FDD1D4F818",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RenektonCleave.png"
+	},
+	"Images\\Spells\\RenektonPreExecute.png": {
+		"MD5": "5EFD206903EBB56C90A46C26B3C46DD2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RenektonPreExecute.png"
+	},
+	"Images\\Spells\\RenektonReignOfTheTyrant.png": {
+		"MD5": "96B88A101E65C00890D6C2CC24FEB25A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RenektonReignOfTheTyrant.png"
+	},
+	"Images\\Spells\\RenektonSliceAndDice.png": {
+		"MD5": "6036AED910C5BAA9E21C83A9B231FF0B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RenektonSliceAndDice.png"
+	},
+	"Images\\Spells\\RengarE.png": {
+		"MD5": "48B70B7FB32916896EA288A07E429D24",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RengarE.png"
+	},
+	"Images\\Spells\\RengarQ.png": {
+		"MD5": "AB02CC2940222AB3E925A520C86EC5D7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RengarQ.png"
+	},
+	"Images\\Spells\\RengarR.png": {
+		"MD5": "4B57D90CCEBCCCCDAE64D932D262D033",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RengarR.png"
+	},
+	"Images\\Spells\\RengarW.png": {
+		"MD5": "7D08AB5245D9A6F8D837A3B08B83E239",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RengarW.png"
+	},
+	"Images\\Spells\\RiftWalk.png": {
+		"MD5": "2D1E0AEAD8B284FF179E1F1085C9AA1B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RiftWalk.png"
+	},
+	"Images\\Spells\\RivenFeint.png": {
+		"MD5": "85979325AFDBD23838220DA2BBF2CF3A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RivenFeint.png"
+	},
+	"Images\\Spells\\RivenFengShuiEngine.png": {
+		"MD5": "6D5013E21F1F23F81E03F758B05497F3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RivenFengShuiEngine.png"
+	},
+	"Images\\Spells\\RivenMartyr.png": {
+		"MD5": "277B84540338B33A1256691F7E8C0A1B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RivenMartyr.png"
+	},
+	"Images\\Spells\\RivenTriCleave.png": {
+		"MD5": "78561DBEA45930D36C76760FCFF77AE6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RivenTriCleave.png"
+	},
+	"Images\\Spells\\RocketGrab.png": {
+		"MD5": "C2437F1F25B1B4D32A99589AC555BE97",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RocketGrab.png"
+	},
+	"Images\\Spells\\RumbleCarpetBomb.png": {
+		"MD5": "2552C523DEB679C6B2AE7A083F1B256D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RumbleCarpetBomb.png"
+	},
+	"Images\\Spells\\RumbleFlameThrower.png": {
+		"MD5": "AE1293771F30EC6748450E0421D12533",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RumbleFlameThrower.png"
+	},
+	"Images\\Spells\\RumbleGrenade.png": {
+		"MD5": "B47E34F1FA87152BA60E78C09D17158A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RumbleGrenade.png"
+	},
+	"Images\\Spells\\RumbleShield.png": {
+		"MD5": "0AD123E004609AB63970DCB3C3D9AB09",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RumbleShield.png"
+	},
+	"Images\\Spells\\Rupture.png": {
+		"MD5": "0C5E39C458D4CD72985AFE80A8C17E52",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Rupture.png"
+	},
+	"Images\\Spells\\RyzeE.png": {
+		"MD5": "4427FB70CACDF3B4F0AE7B5AC2C49570",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RyzeE.png"
+	},
+	"Images\\Spells\\RyzeQWrapper.png": {
+		"MD5": "8C5AFA075FA606E2E9C151882AF181F3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RyzeQWrapper.png"
+	},
+	"Images\\Spells\\RyzeR.png": {
+		"MD5": "31741C09EE076C6B4124B9C8414601D5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RyzeR.png"
+	},
+	"Images\\Spells\\RyzeW.png": {
+		"MD5": "7C327C3C3DDEAE593AEA17C8A0E33F9F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/RyzeW.png"
+	},
+	"Images\\Spells\\Sadism.png": {
+		"MD5": "265BD306C0C8AE9EFB9BF1130701436D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Sadism.png"
+	},
+	"Images\\Spells\\SamiraE.png": {
+		"MD5": "32F7F05103576310E8ABBDAE7483ADF6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SamiraE.png"
+	},
+	"Images\\Spells\\SamiraQ.png": {
+		"MD5": "BCC82453421CD9813549E8B879008B43",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SamiraQ.png"
+	},
+	"Images\\Spells\\SamiraR.png": {
+		"MD5": "305D3E71FAFBECF190BD9F9DC0B860D4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SamiraR.png"
+	},
+	"Images\\Spells\\SamiraW.png": {
+		"MD5": "553B34071D1C572CDF0F59B252030428",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SamiraW.png"
+	},
+	"Images\\Spells\\SeismicShard.png": {
+		"MD5": "E8C1F6CA8DF768008097432C292EC2F6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SeismicShard.png"
+	},
+	"Images\\Spells\\SejuaniE.png": {
+		"MD5": "18A55412A5F9E5C5844368CBB38B794C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SejuaniE.png"
+	},
+	"Images\\Spells\\SejuaniQ.png": {
+		"MD5": "8184BB4EB13C5F476F10C6466CF74138",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SejuaniQ.png"
+	},
+	"Images\\Spells\\SejuaniR.png": {
+		"MD5": "1029A7B2727BE0EA50E8A8D0493AF52B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SejuaniR.png"
+	},
+	"Images\\Spells\\SejuaniW.png": {
+		"MD5": "A8C3792A5543844CD5DD485D3117A2F8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SejuaniW.png"
+	},
+	"Images\\Spells\\SennaE.png": {
+		"MD5": "C75402413C147A32D594B43868CD88ED",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SennaE.png"
+	},
+	"Images\\Spells\\SennaQ.png": {
+		"MD5": "5964BD5C1B88319BFB89435FCB8C2158",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SennaQ.png"
+	},
+	"Images\\Spells\\SennaR.png": {
+		"MD5": "431BDF206266A48FC75F55C09D820AC2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SennaR.png"
+	},
+	"Images\\Spells\\SennaW.png": {
+		"MD5": "28CA644657D8E33CB8036330A8E519AF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SennaW.png"
+	},
+	"Images\\Spells\\SeraphineE.png": {
+		"MD5": "A4760B3ABAAFD9AE76E0C8D20B726034",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SeraphineE.png"
+	},
+	"Images\\Spells\\SeraphineQ.png": {
+		"MD5": "AB4647E6DA09F64579EC6A7457F69112",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SeraphineQ.png"
+	},
+	"Images\\Spells\\SeraphineR.png": {
+		"MD5": "0F50335CF466A5F402EF88C19872E5A9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SeraphineR.png"
+	},
+	"Images\\Spells\\SeraphineW.png": {
+		"MD5": "DDDF62E7B23F1D56DDA4DAF725FA9271",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SeraphineW.png"
+	},
+	"Images\\Spells\\SettE.png": {
+		"MD5": "572293F93EDD44B52991B0AA1B199E22",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SettE.png"
+	},
+	"Images\\Spells\\SettQ.png": {
+		"MD5": "6AC5730A0C72D88F8CE3E1C712B66630",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SettQ.png"
+	},
+	"Images\\Spells\\SettR.png": {
+		"MD5": "F8C813A09C29DB9168ABE973B4E32935",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SettR.png"
+	},
+	"Images\\Spells\\SettW.png": {
+		"MD5": "2D66867538C1272DCA018171042CECB2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SettW.png"
+	},
+	"Images\\Spells\\ShenE.png": {
+		"MD5": "E160F4278A045647483E4E49109F30D5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShenE.png"
+	},
+	"Images\\Spells\\ShenQ.png": {
+		"MD5": "C4152BA9632DD0FB52D73F4091DE5650",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShenQ.png"
+	},
+	"Images\\Spells\\ShenR.png": {
+		"MD5": "FFCA7D2D787A9DA15B5A65A9F146598A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShenR.png"
+	},
+	"Images\\Spells\\ShenW.png": {
+		"MD5": "26B4838A84E0807F29CBD2ED9FA7A86E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShenW.png"
+	},
+	"Images\\Spells\\ShyvanaDoubleAttack.png": {
+		"MD5": "53BF1B4FC154490A5F26F01E4417C6C9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShyvanaDoubleAttack.png"
+	},
+	"Images\\Spells\\ShyvanaFireball.png": {
+		"MD5": "179741E82BA77E29F4B562777FF62BB9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShyvanaFireball.png"
+	},
+	"Images\\Spells\\ShyvanaImmolationAura.png": {
+		"MD5": "42AA121B6EEAEB4FC067F5685CF966E0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShyvanaImmolationAura.png"
+	},
+	"Images\\Spells\\ShyvanaTransformCast.png": {
+		"MD5": "610545B23FA75B72F9D6520E9ACE6B18",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ShyvanaTransformCast.png"
+	},
+	"Images\\Spells\\SionE.png": {
+		"MD5": "A3F0C450212A467218A28D3BE93D55C8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SionE.png"
+	},
+	"Images\\Spells\\SionQ.png": {
+		"MD5": "D92F425E75ABD8EB0288EFE649410FB7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SionQ.png"
+	},
+	"Images\\Spells\\SionR.png": {
+		"MD5": "211098B565CB4B34076BFAD6C4581B6E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SionR.png"
+	},
+	"Images\\Spells\\SionW.png": {
+		"MD5": "8782B941E2DB357BA4ADC67B11272138",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SionW.png"
+	},
+	"Images\\Spells\\SivirE.png": {
+		"MD5": "44243CEDCC63642C823E620484474ADD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SivirE.png"
+	},
+	"Images\\Spells\\SivirQ.png": {
+		"MD5": "CCE9AAAC5ECD2CD8AF0B2D73E0D1D25D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SivirQ.png"
+	},
+	"Images\\Spells\\SivirR.png": {
+		"MD5": "DB34FEDCDFDDF278FF71D3E345CB2C33",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SivirR.png"
+	},
+	"Images\\Spells\\SivirW.png": {
+		"MD5": "7A796CF687410EF3D599D425AD09E61A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SivirW.png"
+	},
+	"Images\\Spells\\SkarnerExoskeleton.png": {
+		"MD5": "A580D1D57FCF39DA409CC0DCCC416A36",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SkarnerExoskeleton.png"
+	},
+	"Images\\Spells\\SkarnerFracture.png": {
+		"MD5": "8182708AE6A112F9A662F8B604C6A619",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SkarnerFracture.png"
+	},
+	"Images\\Spells\\SkarnerImpale.png": {
+		"MD5": "326B050F4B8D5D97E5824D58E8755A0B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SkarnerImpale.png"
+	},
+	"Images\\Spells\\SkarnerVirulentSlash.png": {
+		"MD5": "0593F2C8F99C07B2457CCB40A9625D7F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SkarnerVirulentSlash.png"
+	},
+	"Images\\Spells\\SonaE.png": {
+		"MD5": "1021AD859CDF1076F111DDAF0C672B56",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SonaE.png"
+	},
+	"Images\\Spells\\SonaQ.png": {
+		"MD5": "AD584213B502DDD71CA4DADEBF8AF96C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SonaQ.png"
+	},
+	"Images\\Spells\\SonaR.png": {
+		"MD5": "9298F4FEC6C0FA6AD14F9FAB9484DD5B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SonaR.png"
+	},
+	"Images\\Spells\\SonaW.png": {
+		"MD5": "9D55A0B04A02F988737FE8596EF3DAE5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SonaW.png"
+	},
+	"Images\\Spells\\SorakaE.png": {
+		"MD5": "6636F6D85A44E62A6B9E400E817E0BE8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SorakaE.png"
+	},
+	"Images\\Spells\\SorakaQ.png": {
+		"MD5": "909AFBDBA250A6F170528B0B21DA4691",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SorakaQ.png"
+	},
+	"Images\\Spells\\SorakaR.png": {
+		"MD5": "77199211BC605EC8F38E2C3AC215C1A3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SorakaR.png"
+	},
+	"Images\\Spells\\SorakaW.png": {
+		"MD5": "9D539926C0557FDD0FEDFC93B7E60724",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SorakaW.png"
+	},
+	"Images\\Spells\\SowTheWind.png": {
+		"MD5": "E48F3D6EEEB8CA0E429D378544C0A9A0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SowTheWind.png"
+	},
+	"Images\\Spells\\StaticField.png": {
+		"MD5": "B49B15023A1357FB653C723F862AF4C8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/StaticField.png"
+	},
+	"Images\\Spells\\SummonerBarrier.png": {
+		"MD5": "070120E8064C7769BAEB1765E28832CC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerBarrier.png"
+	},
+	"Images\\Spells\\SummonerBoost.png": {
+		"MD5": "65EEA722A1FC79FB6469E7246EB0AFB8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerBoost.png"
+	},
+	"Images\\Spells\\SummonerDot.png": {
+		"MD5": "FC6BF1688506336009CCF19C4955AA18",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerDot.png"
+	},
+	"Images\\Spells\\SummonerExhaust.png": {
+		"MD5": "37E058CE96CF92ADF6831AD5946956F4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerExhaust.png"
+	},
+	"Images\\Spells\\SummonerFlash.png": {
+		"MD5": "C4122701056F18D242C22B2C0BD35642",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerFlash.png"
+	},
+	"Images\\Spells\\SummonerHaste.png": {
+		"MD5": "58955CB861C3B51375948A05E260996A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerHaste.png"
+	},
+	"Images\\Spells\\SummonerHeal.png": {
+		"MD5": "62CC94A564835CD3ABD80D74346C35DA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerHeal.png"
+	},
+	"Images\\Spells\\SummonerMana.png": {
+		"MD5": "F180BEB2BB4D6514F307A02919007678",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerMana.png"
+	},
+	"Images\\Spells\\SummonerPoroRecall.png": {
+		"MD5": "F12BDCA013BC9F30054019D318C9D60E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerPoroRecall.png"
+	},
+	"Images\\Spells\\SummonerPoroThrow.png": {
+		"MD5": "2FA14D07B3347C9998BD8DEB61C7ECBA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerPoroThrow.png"
+	},
+	"Images\\Spells\\SummonerSmite.png": {
+		"MD5": "D79FD9CC23F23592C1085E1B5262CC70",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerSmite.png"
+	},
+	"Images\\Spells\\SummonerSnowball.png": {
+		"MD5": "5AADF633AA3471816E67D7BCFAD929A8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerSnowball.png"
+	},
+	"Images\\Spells\\SummonerSnowURFSnowball_Mark.png": {
+		"MD5": "5AADF633AA3471816E67D7BCFAD929A8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerSnowURFSnowball_Mark.png"
+	},
+	"Images\\Spells\\SummonerTeleport.png": {
+		"MD5": "76F3D1CBC7111379F6EFE2D1098B04C4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SummonerTeleport.png"
+	},
+	"Images\\Spells\\SwainE.png": {
+		"MD5": "7244CEC8FEEE5B601753B1C698D3B9B6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SwainE.png"
+	},
+	"Images\\Spells\\SwainQ.png": {
+		"MD5": "5E8EAB9D4027AC8F0EBFB53042AE0469",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SwainQ.png"
+	},
+	"Images\\Spells\\SwainR.png": {
+		"MD5": "B442AFAE467F07B36CA47DEAC4AAAAD1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SwainR.png"
+	},
+	"Images\\Spells\\SwainW.png": {
+		"MD5": "C61757D93AB7C13B785F475806A7086E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SwainW.png"
+	},
+	"Images\\Spells\\SylasE.png": {
+		"MD5": "AA64328421DDE905FD711EA8FD308CFA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SylasE.png"
+	},
+	"Images\\Spells\\SylasQ.png": {
+		"MD5": "FAD870D06F56EA22A04DE20011F58AEC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SylasQ.png"
+	},
+	"Images\\Spells\\SylasR.png": {
+		"MD5": "F393D9B4D43F0AE2896D8CCE7169ECD1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SylasR.png"
+	},
+	"Images\\Spells\\SylasW.png": {
+		"MD5": "034E406903D6C7DA7EE7376D1E04BC8D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SylasW.png"
+	},
+	"Images\\Spells\\SyndraE.png": {
+		"MD5": "BCD17B0BC5995E63BD99C2F8FBFD6376",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SyndraE.png"
+	},
+	"Images\\Spells\\SyndraQ.png": {
+		"MD5": "88D280C7370C9AC2BA8D57B0EF6A9C06",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SyndraQ.png"
+	},
+	"Images\\Spells\\SyndraR.png": {
+		"MD5": "724A42F75A3FA44BAEB936D10212B027",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SyndraR.png"
+	},
+	"Images\\Spells\\SyndraW.png": {
+		"MD5": "FCF7BE00A234F8A8BDFF80E47FBCA22E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/SyndraW.png"
+	},
+	"Images\\Spells\\TahmKenchE.png": {
+		"MD5": "05293FB86718430B3962E55CBAEC3B8B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TahmKenchE.png"
+	},
+	"Images\\Spells\\TahmKenchNewR.png": {
+		"MD5": "23E114807782041D60B0424258129C2F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TahmKenchNewR.png"
+	},
+	"Images\\Spells\\TahmKenchQ.png": {
+		"MD5": "F9BB332FF30CA08058F887B8E6002514",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TahmKenchQ.png"
+	},
+	"Images\\Spells\\TahmKenchW.png": {
+		"MD5": "56E0FFC6178450192467D096D628FAA1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TahmKenchW.png"
+	},
+	"Images\\Spells\\TaliyahE.png": {
+		"MD5": "FB989C750CA3367B6C6E5F222F606C91",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaliyahE.png"
+	},
+	"Images\\Spells\\TaliyahQ.png": {
+		"MD5": "8DC6E3D81FCEDE26286BB05C5C41F0C8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaliyahQ.png"
+	},
+	"Images\\Spells\\TaliyahR.png": {
+		"MD5": "89CACDAEC3D609D6E2A4B1BF56DE75CE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaliyahR.png"
+	},
+	"Images\\Spells\\TaliyahWVC.png": {
+		"MD5": "F70AE9D667E784BF2FC608337585AA29",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaliyahWVC.png"
+	},
+	"Images\\Spells\\TalonE.png": {
+		"MD5": "F29CFE982691947AC2773612E868DC51",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TalonE.png"
+	},
+	"Images\\Spells\\TalonQ.png": {
+		"MD5": "D4CEA99C341C173E3878F16D7EB94068",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TalonQ.png"
+	},
+	"Images\\Spells\\TalonR.png": {
+		"MD5": "FE538F2FAEAC3D19A52739FF2DEB80CA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TalonR.png"
+	},
+	"Images\\Spells\\TalonW.png": {
+		"MD5": "EBE31DB5A12E6CE9DB500B2651872B20",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TalonW.png"
+	},
+	"Images\\Spells\\Tantrum.png": {
+		"MD5": "9D8F14BA7E4578A76C77879093FA42E6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Tantrum.png"
+	},
+	"Images\\Spells\\TaricE.png": {
+		"MD5": "A9E18ABAF3E28C7080D89B779B1B95EE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaricE.png"
+	},
+	"Images\\Spells\\TaricQ.png": {
+		"MD5": "B364B16CF3EA3F4F2E42409F220F331B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaricQ.png"
+	},
+	"Images\\Spells\\TaricR.png": {
+		"MD5": "FDCD465DD69AEC07133560929100C1C3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaricR.png"
+	},
+	"Images\\Spells\\TaricW.png": {
+		"MD5": "0C6D8950C0AE17ECD25CF3C70167A1F0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TaricW.png"
+	},
+	"Images\\Spells\\TeemoRCast.png": {
+		"MD5": "E17D321CB9351B284F48DDF4DE7452E9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TeemoRCast.png"
+	},
+	"Images\\Spells\\ThreshE.png": {
+		"MD5": "2A636CDFE102EE3B127481667189EC53",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ThreshE.png"
+	},
+	"Images\\Spells\\ThreshQ.png": {
+		"MD5": "F08C39FBDB11B0328E6143DB0E15E54A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ThreshQ.png"
+	},
+	"Images\\Spells\\ThreshRPenta.png": {
+		"MD5": "8FDBF36D1CAFAB2DC1B6EA87FCC41C78",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ThreshRPenta.png"
+	},
+	"Images\\Spells\\ThreshW.png": {
+		"MD5": "CF25A9870DB0EB55EEA8DE7DB3F44A54",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ThreshW.png"
+	},
+	"Images\\Spells\\TimeWarp.png": {
+		"MD5": "81BC84C67D973D6C8878A60F3962D6F7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TimeWarp.png"
+	},
+	"Images\\Spells\\ToxicShot.png": {
+		"MD5": "7DA8B615AAE85A2F99385AF6DC1DC68F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ToxicShot.png"
+	},
+	"Images\\Spells\\Tremors2.png": {
+		"MD5": "C18FE71C44DCD9FE8661EC4FAFA1210B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Tremors2.png"
+	},
+	"Images\\Spells\\TristanaE.png": {
+		"MD5": "3B11427B78E5C887650158E55644D5A4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TristanaE.png"
+	},
+	"Images\\Spells\\TristanaQ.png": {
+		"MD5": "2E9371E977C9AC3E1E2595E229FD55F4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TristanaQ.png"
+	},
+	"Images\\Spells\\TristanaR.png": {
+		"MD5": "C9086269071548509339536EFCFECEFC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TristanaR.png"
+	},
+	"Images\\Spells\\TristanaW.png": {
+		"MD5": "EAACA9439722FF413FF3926F04303C15",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TristanaW.png"
+	},
+	"Images\\Spells\\TrundleCircle.png": {
+		"MD5": "24BEE1478F0BFDDB36E22C09816F4833",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TrundleCircle.png"
+	},
+	"Images\\Spells\\trundledesecrate.png": {
+		"MD5": "F036CBD494C9B2DB5391B1B89A4C968A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/trundledesecrate.png"
+	},
+	"Images\\Spells\\TrundlePain.png": {
+		"MD5": "EF1E129CFBE40FE0910C1C68508FC9E0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TrundlePain.png"
+	},
+	"Images\\Spells\\TrundleTrollSmash.png": {
+		"MD5": "EFE2AD485CF54D15E5F474EE927BC73D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TrundleTrollSmash.png"
+	},
+	"Images\\Spells\\TryndamereE.png": {
+		"MD5": "2B7094D12E455366D9848865A00B5E07",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TryndamereE.png"
+	},
+	"Images\\Spells\\TryndamereQ.png": {
+		"MD5": "B84C8A13AF85698E684ABAF8C4AC49FF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TryndamereQ.png"
+	},
+	"Images\\Spells\\TryndamereW.png": {
+		"MD5": "0F87643EFAB1F24A49C948712F91DE49",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TryndamereW.png"
+	},
+	"Images\\Spells\\TwitchExpunge.png": {
+		"MD5": "BCBCF7BF11268C5CD7AB90B998F32864",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TwitchExpunge.png"
+	},
+	"Images\\Spells\\TwitchFullAutomatic.png": {
+		"MD5": "8FC6EA0FD1611AEC0CA9A7E6913CF574",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TwitchFullAutomatic.png"
+	},
+	"Images\\Spells\\TwitchHideInShadows.png": {
+		"MD5": "342B098C86A76403BD9ACEE65972B4EF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TwitchHideInShadows.png"
+	},
+	"Images\\Spells\\TwitchVenomCask.png": {
+		"MD5": "065D327F9FC784F0E8FA84A1D5A4CDC8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TwitchVenomCask.png"
+	},
+	"Images\\Spells\\TwoShivPoison.png": {
+		"MD5": "8C13BFC1075FF484CF40BC5128B0D2AF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/TwoShivPoison.png"
+	},
+	"Images\\Spells\\UdyrBearStance.png": {
+		"MD5": "C0DACB4026B25BA9595D01629DA76095",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UdyrBearStance.png"
+	},
+	"Images\\Spells\\UdyrPhoenixStance.png": {
+		"MD5": "B64E1EC0E3901B695EA9EA22EA315887",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UdyrPhoenixStance.png"
+	},
+	"Images\\Spells\\UdyrTigerStance.png": {
+		"MD5": "52E4B8729CFCF8FA2B3433B3A93387D0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UdyrTigerStance.png"
+	},
+	"Images\\Spells\\UdyrTurtleStance.png": {
+		"MD5": "E6E58721F7DE480ACFC979E55106AA58",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UdyrTurtleStance.png"
+	},
+	"Images\\Spells\\UFSlash.png": {
+		"MD5": "A231CEA449C537950CB3A8B08AA87547",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UFSlash.png"
+	},
+	"Images\\Spells\\UndyingRage.png": {
+		"MD5": "6704D6D78F37D9E03869FA0E1CAEA883",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UndyingRage.png"
+	},
+	"Images\\Spells\\UrgotE.png": {
+		"MD5": "540F460CB73D6AD7AC48D5D0D73AFB39",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UrgotE.png"
+	},
+	"Images\\Spells\\UrgotQ.png": {
+		"MD5": "EB0DA13DC6C1CEA64DA68D5474F403EF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UrgotQ.png"
+	},
+	"Images\\Spells\\UrgotR.png": {
+		"MD5": "D374612561A4199618268EB956072904",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UrgotR.png"
+	},
+	"Images\\Spells\\UrgotW.png": {
+		"MD5": "3CAEE1D69078E8200A7BD554E8DE185D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/UrgotW.png"
+	},
+	"Images\\Spells\\VarusE.png": {
+		"MD5": "F1540F76719A7542B645823039BA5BC5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VarusE.png"
+	},
+	"Images\\Spells\\VarusQ.png": {
+		"MD5": "403B932A5A05AF3FFA317DBAB8D2F1C5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VarusQ.png"
+	},
+	"Images\\Spells\\VarusR.png": {
+		"MD5": "8E4F64959C6A1ED8796D3F51EF7FB252",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VarusR.png"
+	},
+	"Images\\Spells\\VarusW.png": {
+		"MD5": "F6BAC12BD68E713764A4257F8F26075C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VarusW.png"
+	},
+	"Images\\Spells\\VayneCondemn.png": {
+		"MD5": "DA51166F38EC5EF3C955F7A1FC5A01A7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VayneCondemn.png"
+	},
+	"Images\\Spells\\VayneInquisition.png": {
+		"MD5": "EED9F1A5F5A826B64F4D36E66D0DFFC2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VayneInquisition.png"
+	},
+	"Images\\Spells\\VayneSilveredBolts.png": {
+		"MD5": "56B1B4B0C078E40AD31197EE54ADF755",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VayneSilveredBolts.png"
+	},
+	"Images\\Spells\\VayneTumble.png": {
+		"MD5": "406F6E3B7C6E314B1AA6F891AB34B595",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VayneTumble.png"
+	},
+	"Images\\Spells\\VeigarBalefulStrike.png": {
+		"MD5": "C1180C270BF684174FD851CB2C43CEAC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VeigarBalefulStrike.png"
+	},
+	"Images\\Spells\\VeigarDarkMatter.png": {
+		"MD5": "6E03E9D0D4E692890E6CDCB95231ABEB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VeigarDarkMatter.png"
+	},
+	"Images\\Spells\\VeigarEventHorizon.png": {
+		"MD5": "973971BDE323220C8E84FF4B8476EF63",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VeigarEventHorizon.png"
+	},
+	"Images\\Spells\\VeigarR.png": {
+		"MD5": "A46AF496FAAA4CE142B51B072676D21E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VeigarR.png"
+	},
+	"Images\\Spells\\VelkozE.png": {
+		"MD5": "C5CC149AFEC0E4C5073C7F577D95A239",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VelkozE.png"
+	},
+	"Images\\Spells\\VelkozQ.png": {
+		"MD5": "9EAB38CFB74A9E099CE10E7E9F19ED9D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VelkozQ.png"
+	},
+	"Images\\Spells\\VelkozR.png": {
+		"MD5": "E3AC92F51BEAF5DC7A6B81BF40BAEEF8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VelkozR.png"
+	},
+	"Images\\Spells\\VelkozW.png": {
+		"MD5": "6834AB01F1E1B973B5E4FC7F4092B6B9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VelkozW.png"
+	},
+	"Images\\Spells\\ViE.png": {
+		"MD5": "39E02CAA6648D1A1D3B61D9F28AF0BB5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViE.png"
+	},
+	"Images\\Spells\\ViktorChaosStorm.png": {
+		"MD5": "78BED4D9558A1A8358BB7CFD41329D6C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViktorChaosStorm.png"
+	},
+	"Images\\Spells\\ViktorDeathRay.png": {
+		"MD5": "AD532CD002AF46313D0EEE7179859E0E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViktorDeathRay.png"
+	},
+	"Images\\Spells\\ViktorGravitonField.png": {
+		"MD5": "195EDF2E3E9E2C08F3D8DDA930A5C81C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViktorGravitonField.png"
+	},
+	"Images\\Spells\\ViktorPowerTransfer.png": {
+		"MD5": "A116E1EA04638076BAE97E6930968C98",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViktorPowerTransfer.png"
+	},
+	"Images\\Spells\\ViQ.png": {
+		"MD5": "76AB4F234BA288B58E0447C305BA283D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViQ.png"
+	},
+	"Images\\Spells\\ViR.png": {
+		"MD5": "C060F4DE5CDEAF54E71F2BC421455A5D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViR.png"
+	},
+	"Images\\Spells\\ViW.png": {
+		"MD5": "4B4199EDDE4EE80AFAF3DA2320347053",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViW.png"
+	},
+	"Images\\Spells\\VladimirE.png": {
+		"MD5": "75104EC5E9F4BAB2505D3D0A3043E1A7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VladimirE.png"
+	},
+	"Images\\Spells\\VladimirHemoplague.png": {
+		"MD5": "02BD307E8F96E689F40A4408B1FA4A3F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VladimirHemoplague.png"
+	},
+	"Images\\Spells\\VladimirQ.png": {
+		"MD5": "95D5C027AB2ADC149EEA4637C15C112C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VladimirQ.png"
+	},
+	"Images\\Spells\\VladimirSanguinePool.png": {
+		"MD5": "F68DB57A35D3E5DBF3266CF427D124B0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VladimirSanguinePool.png"
+	},
+	"Images\\Spells\\VolibearE.png": {
+		"MD5": "F26F3F7ED1769EE810E6996AB86FA96F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VolibearE.png"
+	},
+	"Images\\Spells\\VolibearQ.png": {
+		"MD5": "9BD6BE95F0F52A7CE83FF0F1632B2709",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VolibearQ.png"
+	},
+	"Images\\Spells\\VolibearR.png": {
+		"MD5": "8A4A4C7396757833BCA599AE6CF8389B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VolibearR.png"
+	},
+	"Images\\Spells\\VolibearW.png": {
+		"MD5": "B98D791C1388EBF04E92880DE3065F81",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VolibearW.png"
+	},
+	"Images\\Spells\\Volley.png": {
+		"MD5": "5C387EE8C57FE60502657CEA5846E6BF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Volley.png"
+	},
+	"Images\\Spells\\VorpalSpikes.png": {
+		"MD5": "62200F65EDED46981CCBA63AC036A4AD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VorpalSpikes.png"
+	},
+	"Images\\Spells\\WarwickE.png": {
+		"MD5": "608A0BAC588DF6FA17B5E3B8F9C28BDB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/WarwickE.png"
+	},
+	"Images\\Spells\\WarwickQ.png": {
+		"MD5": "AED0DAF0FB5D14695FC4ACE85D134CD5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/WarwickQ.png"
+	},
+	"Images\\Spells\\WarwickR.png": {
+		"MD5": "8C2FB0805525C6547489BA5A4ECB2195",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/WarwickR.png"
+	},
+	"Images\\Spells\\WarwickW.png": {
+		"MD5": "C1D179CC5E9004824E08382F7E4A2D49",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/WarwickW.png"
+	},
+	"Images\\Spells\\WildCards.png": {
+		"MD5": "AFDE17A99F783615F97C95EE6EC6C1B0",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/WildCards.png"
+	},
+	"Images\\Spells\\WujuStyle.png": {
+		"MD5": "463A9E67CD5A9D287C0FD608B21C832A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/WujuStyle.png"
+	},
+	"Images\\Spells\\XayahE.png": {
+		"MD5": "FF668A312D7341D4B387B9E2E7F2596E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XayahE.png"
+	},
+	"Images\\Spells\\XayahQ.png": {
+		"MD5": "9E7C814EA0F52C5BB40B3C1EB9DBAE30",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XayahQ.png"
+	},
+	"Images\\Spells\\XayahR.png": {
+		"MD5": "54E7B388B4409FE46DD87AEBCD5B547F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XayahR.png"
+	},
+	"Images\\Spells\\XayahW.png": {
+		"MD5": "FC4E704264647475BAF03B6814D25F1B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XayahW.png"
+	},
+	"Images\\Spells\\XerathArcaneBarrage2.png": {
+		"MD5": "EBB3B7AD1367AD2A7D4B1E8DF23D5B02",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XerathArcaneBarrage2.png"
+	},
+	"Images\\Spells\\XerathArcanopulseChargeUp.png": {
+		"MD5": "60FC37465BA2F537057C59A7B3D77BE4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XerathArcanopulseChargeUp.png"
+	},
+	"Images\\Spells\\XerathLocusOfPower2.png": {
+		"MD5": "A7AFE59538C575CB876D3EF15D3CFADB",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XerathLocusOfPower2.png"
+	},
+	"Images\\Spells\\XerathMageSpear.png": {
+		"MD5": "91787E405428355072F25BB424BFAAB3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XerathMageSpear.png"
+	},
+	"Images\\Spells\\XinZhaoE.png": {
+		"MD5": "6830E0D821733E843D8E97B134F13943",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XinZhaoE.png"
+	},
+	"Images\\Spells\\XinZhaoQ.png": {
+		"MD5": "038ED1DF0830FD8FB3E6F8711ECF7D58",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XinZhaoQ.png"
+	},
+	"Images\\Spells\\XinZhaoR.png": {
+		"MD5": "DE7552BB0A252FE20A20BA2642356583",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XinZhaoR.png"
+	},
+	"Images\\Spells\\XinZhaoW.png": {
+		"MD5": "DD47EEAE39B9038975CD1B740E2C387E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/XinZhaoW.png"
+	},
+	"Images\\Spells\\YasuoE.png": {
+		"MD5": "5D6D15C320708416628CA7A03EDBA591",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YasuoE.png"
+	},
+	"Images\\Spells\\YasuoQ1Wrapper.png": {
+		"MD5": "B96534471D4D0498871D49C2DFC37AAE",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YasuoQ1Wrapper.png"
+	},
+	"Images\\Spells\\YasuoR.png": {
+		"MD5": "703A3BE74415C8D2A8E855A3BC81B53A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YasuoR.png"
+	},
+	"Images\\Spells\\YasuoW.png": {
+		"MD5": "E44071815F3730D3B5F66F892DDE2EEF",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YasuoW.png"
+	},
+	"Images\\Spells\\YoneE.png": {
+		"MD5": "90B9F9955B6AA2581CCC4EF3EBC8901C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YoneE.png"
+	},
+	"Images\\Spells\\YoneQ.png": {
+		"MD5": "021AF86310852031E55D2729430ED712",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YoneQ.png"
+	},
+	"Images\\Spells\\YoneR.png": {
+		"MD5": "8FB36D25A1610D8F2F5C2A99B5EEA70E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YoneR.png"
+	},
+	"Images\\Spells\\YoneW.png": {
+		"MD5": "7C99D170993BE4D9982ADDA7A1538911",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YoneW.png"
+	},
+	"Images\\Spells\\YorickE.png": {
+		"MD5": "C814A9B62310C3E1C7209ACF9731CEE9",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YorickE.png"
+	},
+	"Images\\Spells\\YorickQ.png": {
+		"MD5": "8B96C03CC9123A47E37AB1C975E649AD",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YorickQ.png"
+	},
+	"Images\\Spells\\YorickR.png": {
+		"MD5": "E558096448033086A771D71C68AF7792",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YorickR.png"
+	},
+	"Images\\Spells\\YorickW.png": {
+		"MD5": "ADF34693276DE40B5E2A6B6B0D7597A7",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YorickW.png"
+	},
+	"Images\\Spells\\YuumiE.png": {
+		"MD5": "E1630315C41B99940813B3CA5F43C601",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YuumiE.png"
+	},
+	"Images\\Spells\\YuumiQ.png": {
+		"MD5": "59EDC8C642D5751ECEE092D4B2FF49C5",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YuumiQ.png"
+	},
+	"Images\\Spells\\YuumiR.png": {
+		"MD5": "6C877F3A066688775460E2A371860581",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YuumiR.png"
+	},
+	"Images\\Spells\\YuumiW.png": {
+		"MD5": "6ABA2557F2CE461FE18AB90CE74D255D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/YuumiW.png"
+	},
+	"Images\\Spells\\ZacE.png": {
+		"MD5": "7D371D82385BC2FC44CCDF30D68F3373",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZacE.png"
+	},
+	"Images\\Spells\\ZacQ.png": {
+		"MD5": "0CAF9A89E4D17A1E7EC47529A8038C8A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZacQ.png"
+	},
+	"Images\\Spells\\ZacR.png": {
+		"MD5": "CE7B5DCE796E728CCDFFAA2A5CAA752A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZacR.png"
+	},
+	"Images\\Spells\\ZacW.png": {
+		"MD5": "B79A114602765E67A73949A153D1279D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZacW.png"
+	},
+	"Images\\Spells\\ZedE.png": {
+		"MD5": "B4B6EADC6FF4ABCA56900DCC20502C97",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZedE.png"
+	},
+	"Images\\Spells\\ZedQ.png": {
+		"MD5": "867B34F04632CA57F2D3DFD12C5E47BC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZedQ.png"
+	},
+	"Images\\Spells\\ZedR.png": {
+		"MD5": "DDE998BD3AE74B672F5F118A5B6C9320",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZedR.png"
+	},
+	"Images\\Spells\\ZedW.png": {
+		"MD5": "75CF39BD2E8CF236C977480B6C362F67",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZedW.png"
+	},
+	"Images\\Spells\\ZiggsE.png": {
+		"MD5": "CD3ED13A4431B0D7558E371805947BA1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZiggsE.png"
+	},
+	"Images\\Spells\\ZiggsQ.png": {
+		"MD5": "1763817FE11179DF171429FF1693F7AC",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZiggsQ.png"
+	},
+	"Images\\Spells\\ZiggsR.png": {
+		"MD5": "984A4ABDECD45AF92F9AB5B6140C02F6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZiggsR.png"
+	},
+	"Images\\Spells\\ZiggsW.png": {
+		"MD5": "B6B965A161945C8051A024ECB9FB92C1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZiggsW.png"
+	},
+	"Images\\Spells\\ZileanQ.png": {
+		"MD5": "948B0A85B7814A91F5DC298EFCECCA08",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZileanQ.png"
+	},
+	"Images\\Spells\\ZileanW.png": {
+		"MD5": "902E406B41693BFEE6D44451956B07E1",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZileanW.png"
+	},
+	"Images\\Spells\\ZoeE.png": {
+		"MD5": "4E0A18F766D25209E166574797F410C4",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZoeE.png"
+	},
+	"Images\\Spells\\ZoeQ.png": {
+		"MD5": "7DE90EDEAD42F395997ECC454CCE31B6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZoeQ.png"
+	},
+	"Images\\Spells\\ZoeR.png": {
+		"MD5": "AD3F6CDC5B6F1CE99F6067A87A0DEF56",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZoeR.png"
+	},
+	"Images\\Spells\\ZoeW.png": {
+		"MD5": "F92FE2973203A06CEC39FC009BCE0D2A",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZoeW.png"
+	},
+	"Images\\Spells\\ZyraE.png": {
+		"MD5": "91165DC89591869A4D47A599FD52A093",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZyraE.png"
+	},
+	"Images\\Spells\\ZyraQ.png": {
+		"MD5": "32EB4A6CBBA8F94AD0B0A768E78D94D6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZyraQ.png"
+	},
+	"Images\\Spells\\ZyraR.png": {
+		"MD5": "20E7E6440828B81DB8D421AD3BD45D8E",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZyraR.png"
+	},
+	"Images\\Spells\\ZyraW.png": {
+		"MD5": "EA0501E57EC4749AF150D6B8544A813D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ZyraW.png"
+	}
+}
