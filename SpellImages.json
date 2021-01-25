@@ -2211,6 +2211,22 @@
 		"MD5": "39E02CAA6648D1A1D3B61D9F28AF0BB5",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViE.png"
 	},
+	"Cache\\Images\\Spells\\ViegoE.png": {
+		"MD5": "C73352E8F40B2A72AC0AAA27842F508D",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViegoE.png"
+	},
+	"Cache\\Images\\Spells\\ViegoQ.png": {
+		"MD5": "2F2EAAD2FE107133D0E08DCCF6BAC3A3",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViegoQ.png"
+	},
+	"Cache\\Images\\Spells\\ViegoR.png": {
+		"MD5": "7E54BDA3E4D32617628AF821924785E8",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViegoR.png"
+	},
+	"Cache\\Images\\Spells\\ViegoW.png": {
+		"MD5": "CA5B39D41A95619673D2142163B97F63",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViegoW.png"
+	},
 	"Cache\\Images\\Spells\\ViktorChaosStorm.png": {
 		"MD5": "78BED4D9558A1A8358BB7CFD41329D6C",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/ViktorChaosStorm.png"
