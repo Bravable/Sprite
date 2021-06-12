@@ -343,6 +343,22 @@
 		"MD5": "E3A6DC633761FC51065650D42D3B3742",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DravenSpinning.png"
 	},
+	"Cache\\Images\\Spells\\DrMundoE.png": {
+		"MD5": "47425F509C1D0483DB5A6218D826FD6B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DrMundoE.png"
+	},
+	"Cache\\Images\\Spells\\DrMundoQ.png": {
+		"MD5": "2D89C6A58D7576A12941909C39A68F28",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DrMundoQ.png"
+	},
+	"Cache\\Images\\Spells\\DrMundoR.png": {
+		"MD5": "22D3DFA001A5C3E61638B3A7C78E4E60",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DrMundoR.png"
+	},
+	"Cache\\Images\\Spells\\DrMundoW.png": {
+		"MD5": "FCBB35A88C911CF8B87967BD506DA78F",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/DrMundoW.png"
+	},
 	"Cache\\Images\\Spells\\EkkoE.png": {
 		"MD5": "3D37F9DE0688A85C421A43792745CC48",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/EkkoE.png"
@@ -1110,6 +1126,10 @@
 	"Cache\\Images\\Spells\\LuxPrismaticWave.png": {
 		"MD5": "C77984713E69EA952CCB0A15DF1FA153",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuxPrismaticWave.png"
+	},
+	"Cache\\Images\\Spells\\LuxR.png": {
+		"MD5": "E8CABD42FBB95CDC4930C32AC15CDEB6",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/LuxR.png"
 	},
 	"Cache\\Images\\Spells\\MalzaharE.png": {
 		"MD5": "ECE2E03EA5FE80FF54DB1BA82E03E7F1",
