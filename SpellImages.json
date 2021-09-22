@@ -867,6 +867,10 @@
 		"MD5": "EEA18D2F6A39F8E21E4FF743E7FF6403",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/HowlingGale.png"
 	},
+	"Cache\\Images\\Spells\\Icons_Vex_Passive.S_Yordle.png": {
+		"MD5": "EA9D14D54AF37CAACA13BD43EF5FA485",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/Icons_Vex_Passive.S_Yordle.png"
+	},
 	"Cache\\Images\\Spells\\IllaoiE.png": {
 		"MD5": "6E275888D0256A6852CD1CAD9C193503",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/IllaoiE.png"
@@ -2734,6 +2738,22 @@
 	"Cache\\Images\\Spells\\VelKoz_Passive.png": {
 		"MD5": "99F4AEA84957FF488FC16BA733B14382",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VelKoz_Passive.png"
+	},
+	"Cache\\Images\\Spells\\VexE.png": {
+		"MD5": "612117D7D292FEAA28161A26D95B780B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VexE.png"
+	},
+	"Cache\\Images\\Spells\\VexQ.png": {
+		"MD5": "51341DE06FEB9B21751ADBA153A517C2",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VexQ.png"
+	},
+	"Cache\\Images\\Spells\\VexR.png": {
+		"MD5": "789271245EE8F28AA294B1702B10198C",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VexR.png"
+	},
+	"Cache\\Images\\Spells\\VexW.png": {
+		"MD5": "6CCD21ECCCB7054E137A78315C64588B",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Spells/VexW.png"
 	},
 	"Cache\\Images\\Spells\\ViE.png": {
 		"MD5": "F2AEAB791831EBB663CECF325C72B709",

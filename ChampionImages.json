@@ -115,9 +115,9 @@
 		"MD5": "FC683AFD720E24BD5AB33B9EBCC031BE",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Ezreal.png"
 	},
-	"Cache\\Images\\Champions\\FiddleSticks.png": {
+	"Cache\\Images\\Champions\\Fiddlesticks.png": {
 		"MD5": "54C7541B3300D4887DE096A2ED96A535",
-		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/FiddleSticks.png"
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Fiddlesticks.png"
 	},
 	"Cache\\Images\\Champions\\Fiora.png": {
 		"MD5": "021D3DBF409641C5DE3EC1AA8C9D2EAE",
@@ -546,6 +546,10 @@
 	"Cache\\Images\\Champions\\Velkoz.png": {
 		"MD5": "86B6884755F54A85E6CAD66494841E1F",
 		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Velkoz.png"
+	},
+	"Cache\\Images\\Champions\\Vex.png": {
+		"MD5": "6F70C5E6082978490B31CAA085F463FA",
+		"Download": "https://github.com/Bravable/Sprite/raw/master/Images/Champions/Vex.png"
 	},
 	"Cache\\Images\\Champions\\Vi.png": {
 		"MD5": "65BB19CACDEB83583E221E73E87EE6A9",
